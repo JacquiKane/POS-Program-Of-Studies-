@@ -1,0 +1,54 @@
+.AllDeptPosFrame {
+    Width:auto;
+    height: auto;
+    border: 10px dotted blue;
+    background-color:goldenrod;
+}
+
+.CarmelWindowColours {
+    background-color: white;
+    border: 5px solid blue;
+    width: 80%;
+    height: 50%;
+  }
+
+  .POSDeptBox
+{
+    font-family: 'Viner Hand ITC';
+    width:100px;
+    height:100px;
+    background-color:goldenrod;
+    border: 5px solid blue;
+    margin: 15px;
+    vertical-align: top;
+    display: inline-block;
+    position: relative;
+}
+
+.ImgDept {
+    width: 25px;
+    height: 25px;
+    border: 3px solid purple;
+    vertical-align: top;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    right:0;
+}
+
+.ButtonPosn {
+    position: absolute;
+    bottom:0;
+    left:0;
+}
+
+.POCTitle {
+    background-color: goldenrod;
+    color: blue;
+    text-align: center;
+    font-family: 'Viner Hand ITC';
+}
+
+.POC_AP {
+    border: 2px solid green;
+}

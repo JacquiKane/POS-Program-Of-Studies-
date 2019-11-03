@@ -1,0 +1,9 @@
+
+ <h1 class="POCTitle">{{departmentname}} Courses at Carmel High School</h1>
+
+ <section>
+        <app-deptcourse
+          *ngFor = "let singlecourse of deptCourses"
+          [course] = "singlecourse">
+        </app-deptcourse>
+</section>

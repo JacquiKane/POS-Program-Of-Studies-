@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { RouterModule } from '@angular/router';
+import { CourseService } from './course.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ProgOS';
+  title = 'Carmel High School Program Of Studies';
+
+  constructor (private service: CourseService){
+    service.objectify();
+  }
 }

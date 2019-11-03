@@ -1,0 +1,10 @@
+[{"name":"Computer Illustrations & Graphics","area":"Computer Science","credits": "2", "image":"http://hp-api.herokuapp.com/images/harry.jpg"},
+  {"name":"Computer SCience A, AP","area":"Computer Science","credits": "4", "image":"http://hp-api.herokuapp.com/images/harry.jpg"},
+{"name":"Digital Applications And Responsibility 1","area":"Computer Science","credits": "2", "image":"http://hp-api.herokuapp.com/images/harry.jpg"},
+{"name":"Computer Science Principles, AP","area":"Computer Science","credits": "2", "image":"http://hp-api.herokuapp.com/images/harry.jpg"},
+{"name":"Information Technology Support","area":"Computer Science","credits": "2", "image":"http://hp-api.herokuapp.com/images/harry.jpg"},
+{"name":"Web Design","area":"Computer Science","credits": "2", "image":"http://hp-api.herokuapp.com/images/harry.jpg"},
+{"name":"Introduction to Computer Science","area":"Computer Science","credits": "2", "image":"http://hp-api.herokuapp.com/images/harry.jpg"}
+]
+
+

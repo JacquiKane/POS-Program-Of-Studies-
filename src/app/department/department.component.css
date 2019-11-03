@@ -1,0 +1,48 @@
+.DeptBox
+{
+    font-family: 'Viner Hand ITC';
+    width:120px;
+    height:120px;
+    background-color:goldenrod;
+    border: 5px solid gold;
+    margin: 15px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+    border-radius: 25px;
+}
+
+
+.ImgCharacter {
+    width: 25px;
+    height: 25px;
+    border: 3px solid purple;
+    vertical-align: top;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    right:0;
+}
+
+.ButtonPosn {
+    position: absolute;
+    bottom:0;
+    left: 25%;
+}
+
+.ButtonMore {
+    border-radius: 10px;
+}
+
+.Info{
+    position: absolute;
+    bottom:0;
+    right: 0;
+    border: 1px solid blue;
+    border-radius: 25px;
+    width: 25px;
+    height: 25px;
+    font-size:1.3em;
+  }

@@ -1,0 +1,42 @@
+.CarmelWindowColours {
+  background-color: white;
+  border: 5px solid blue;
+}
+
+.SwitchOptions
+{
+  position: relative;
+  background-color: goldenrod;
+  border: 5px solid blue;  
+  width: 100px;
+  height: 400px;
+  float: left;
+  text-align: center;
+}
+
+.Logo {
+  position: absolute;
+  bottom: 2px;
+}
+
+.ButtonPosn {
+  position: absolute;
+  bottom:0;
+  left:0;
+}
+
+.Info{
+  position: absolute;
+  bottom:0;
+  left: 45%;
+  border-radius: 25px;
+  width: 15px;
+  height: 15px;
+}
+
+.POCTitle {
+  background-color: goldenrod;
+  color: blue;
+  text-align: center;
+  font-family: 'Viner Hand ITC';
+}

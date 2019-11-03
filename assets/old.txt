@@ -1,0 +1,4 @@
+   <button [routerLink]="['/depposwin/', Department.id]">Page Name</button>
+    <a class="nav-link" routerLink="/depposwin/{{Department.id}}">
+        Dept Courses 
+    </a>

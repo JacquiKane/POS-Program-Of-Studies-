@@ -1,0 +1,18 @@
+<div class="POCDialog">
+<h1 mat-dialog-title>Name: {{course.name}}</h1>
+   
+<mat-dialog-content>
+
+<h3>Semesters: {{course.semesters}}</h3>
+
+<h3>Credits: {{course.credits}}</h3>
+<hr/>
+<h3>Description: </h3>
+<p>{{course.description}}</p>
+
+</mat-dialog-content>
+
+<mat-dialog-actions>
+<button class="mat-raised-button"(click)="close()">Close</button>
+</mat-dialog-actions>
+</div>

@@ -1,0 +1,8 @@
+<h1 class="POCTitle">These Are Your 'Liked' Courses at Carmel High School</h1>
+
+<section>
+       <app-deptcourse
+         *ngFor = "let singlecourse of studentLikedCourses"
+         [course] = "singlecourse">
+       </app-deptcourse>
+</section>

@@ -1,0 +1,14 @@
+.CHSSearchCourse {
+    margin: 2px;
+    background-color: goldenrod;
+}
+
+.CHSSearchedCourses {
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+}
+
+.POCFormField {
+    padding: 10px;
+}

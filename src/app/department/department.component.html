@@ -1,0 +1,14 @@
+<div class="DeptBox">
+    <h1>{{Department.name}}</h1>
+    <h4>{{Department.chair}}</h4>
+
+    <!--<button class="ButtonPosn ButtonMore" (click)="selectCourse(Department)">
+        Courses</button>-->
+        <a (click)="selectCourse(Department)" routerlink routerLink=""><mat-icon >pets</mat-icon></a>
+        
+  
+
+<router-outlet></router-outlet>
+
+
+

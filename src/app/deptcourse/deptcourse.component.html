@@ -1,0 +1,22 @@
+<section cdkDrag class="CourseBox">
+    <h4>{{course.name}}</h4>
+    <h4>{{course.credits}} Credits</h4>
+    <div class="ButtonPosnLeft">           
+       <!-- <button class="ButtonPosn ButtonMore" color="warning" (click)="open()"><mat-icon >pets</mat-icon></button> -->
+       <button mat-icon-button color="primary" (click)="open()">
+                <mat-icon>pets</mat-icon>
+                </button>
+
+    </div> 
+    <div class="ButtonPosnRight">           
+        <!-- <button class="ButtonPosn ButtonMore" color="warning" (click)="open()"><mat-icon >star</mat-icon></button> -->
+        <button mat-icon-button color="accent" (click)="like(course)">
+                        <mat-icon *ngIf="course.isLiked">favorite</mat-icon>
+                        <mat-icon *ngIf="!course.isLiked">favorite_border</mat-icon>
+        </button>
+    </div>
+</section>
+
+<!--  
+     <button class="ButtonPosn ButtonMore" color="warning" (click)="open()"><mat-icon >pets</mat-icon></button>
+-->
