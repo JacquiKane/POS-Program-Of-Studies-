@@ -1,0 +1,171 @@
+"allcourses": [
+{"id": "2520", "name": "ALGEBRA I 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": " Algebra I-1 is the prerequisite to Algebra I-2",
+"description": "This course provides a formal development of the algebraic
+skills and concepts necessary for students who will take a
+geometry course and other advanced college-preparatory
+courses. The instructional program will provide for the
+use of algebraic skills in a wide range of problem- solving
+situations. Topics include: real numbers and expressions,
+functions, linear equations, inequalities, systems of
+equations and inequalities, quadratic and exponential
+equations and functions, and data analysis and statistics. No
+student will be allowed to take Algebra I-2 before earning
+credit for Algebra I-1.
+Students taking this course are required to have the
+scientific calculator, TI-30XIIS."
+},
+{"id": "2522", "name": "ALGEBRA II 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": " Algebra I 2 required and Geometry 2 recommended",
+"description": "Algebra II is a course designed to reinforce skills learned in Algebra I as well as introducing topics necessary for higher-level math courses. The topics given to high priority in Algebra II are solving of all type of equations and inequalities, graphing functions, solving application problems, and an introduction to statistics and probability. Technology is integrated where appropriate. Students taking this course will be required to have a non-CAS scientific calculator. The recommended scientific calculator for the course: TI-30XIIS. Casio models will not be allowed. TInspires will be used in class, but students are not requiredto have their own."
+},
+{"id": "2522", "name": "ALGEBRA II 1-2, Honors", "semesters": "2", "credits": "2 PW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Honors", "prereq": "Geometry 2, Honors",
+	"description": "This course is offered to students recommended as most able in mathematics because of its rigor and pace. The content of the course includes all topics in Algebra II, presented from a more abstract and theoretical standpoint. It is recommended that students not only have the Honors Geometry background, but also a strong showing in Honors/Advanced Algebra I. Students who take this course must have good number sense and be able to think critically. Topics include linear programming, statistics, matrices and their applications and an in-depth analysis of a wide variety of functions. Students taking this course will be required to have a scientific calculator, such as the TI-30XIIS, the TI-36X Pro cannot be used on assessments."
+},
+{"id": "2532", "name": "GEOMETRY 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": "Algebra I 2",
+	"description": "The course presents a unified approach to plane and solid geometry. Emphasis is placed on the application of properties, postulates, and theorems of geometric figures in two and three dimensions. Topics include congruence, similarity, parallel lines, polygons, circles, volume and constructions. Students taking this course will be required to have a scientific calculator, such as the TI-30XIIS. There is an approximate fee for this course of $5 for the geometry toolkit."
+},
+{"id": "2532", "name": "GEOMETRY 1-2, Honors", "semesters": "2", "credits": "2 PW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Honors", "prereq": "Algebra I-2",
+	"description": "This course is designed to introduce the student to the vocabulary and concepts of plane geometry and to apply those concepts using the processes of logical reasoning to attain a better understanding of the world around them. The development of theorems will necessitate a working knowledge of measurement, congruence, similarity, parallelism, perpendicularity, sequences, perimeter, area, volume, trigonometry, and application of algebra concepts of geometry. The scope of Honors Geometry extends beyond the study of geometry with more emphasis on higher order thinking, identifying patterns as well as additional trigonometry and triangle applications. This course also has a strong emphasis on constructions and coordinate geometry. Students taking this course will be required to have a scientific calculator. There is an approximate fee for this course of $5 for the geometry tool kit."
+},
+{"id": "2570", "name": "STATISTICS 1-2, AP", "semesters": "2", "credits": "2 FW", "AP": "Yes", "DC": "No", "IB": "No", "QR": "Yes", "classification": "Advanced Placement", "prereq": "Algebra II-2",
+	"description": "The course is a study of statistics for the motivated student. Its purpose is to introduce students to methods for collecting, analyzing, and drawing conclusions from data. The curriculum is aligned to the College Board guidelines and will discuss topics such as one and two-variable displays and descriptive statistics, linear and non- linear regression, sample surveys, experimental design, probability, sampling distribution and inference procedures. Students completing this course will be able to take the AP Statistics exam in May, part of which may be paid by the state when the student is currently enrolled in the course. Students taking this course will be required to have a TInspire graphing calculator. It does not matter if it is the CAS or CX version."
+},
+{"id": "2530", "name": "FINITE MATHEMATICS 1-2, ACP 118", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "Yes", "IB": "No", "QR": "No", "classification": "Dual Credit", "prereq": "Pre-Calc/Trig 2 Intermediate or Pre-Calc/Trig 2",
+"description": "Finite Mathematics is designed for students who will pursue careers that are not necessarily in the science field. The problem solving emphasis of the course is designed to apply mathematical concepts to business, economics, social, life and physical sciences. Topics include probability, linear programming and elementary statistics. As part of the Advance College Project students who enroll in Finite Math may apply to earn three (3) hours of college credit through Indiana University, Bloomington, Mathematics (M118). Students would be charged reduced university tuition per credit hour and credits are transferable to several colleges and universities in the country. Each student who chooses to participate in the ACP program should inform his/her counselor at the time of scheduling. Fees will be due when billed by Indiana University. Once a student application is accepted by the ACP office of IU, withdrawal from the M118 IU course is available in October.No calculator is required for this course"
+},
+{"id": "2550", "name": "QUANTITATIVE REASONSING 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": "Algebra II 1-2",
+	"description": "Quantitative Reasoning is a one-year course focused on the study of numeracy, ratio and proportional reasoning, modeling, probabilistic reasoning and statistics. Students will build knowledge with basic mathematical/analytical concepts and operations. The class will focus heavily onproblem solving with real life applications. It is designed to provide students with a coherent, useful and logical experience in which they can make use of their ability to analyze problem situations. This higher level math coursealigns with college-level quantitative reasoning courses and is recommended for students who are not planning to pursue a degree in a STEM related field or do not anticipate a need for advanced mathematics in their future studies. Students taking this course will be required to have a scientific calculator."
+},
+{"id": "2544", "name": "BRIEF SURVEY OF CALCULUS 1-2, ACP M119", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "Yes", "IB": "No", "QR": "No", "classification": "Duel Credit", "prereq": "Pre-Calculus/Trig 2",
+	"description": "Brief Survey of Calculus offers the opportunity to learn Calculus with emphasis on applications rather than theory. Recommended for students who have maintained a “B” average in previous mathematics courses. Course content includes functions, limits, derivatives, applications of the derivative and applicationsof integration. As part of the Advance College Project, students who enroll in Calculus Survey may apply to earn three (3) hours of college credit through Indiana University, Bloomington, Mathematics (M119). Students are charged reduced university tuition per credit hour and credits are transferable to several colleges and universities in the country. Each student who chooses to take this course for college credit should inform his/her counselor at the time of scheduling. Fees are due when billed by Indiana University. Once an application is accepted by the ACP office of IU, withdrawal is available in October.Students taking this course will need a TInspire CX or TI-84 plus calculator."
+},
+{"id": "2562", "name": "CALCULUS AB 1-2, AP/ACP M211", "semesters": "2", "credits": "2 FW", "AP": "Yes", "DC": ???, "IB": "No", "QR": "Yes", "classification": "Advanced Placement", "prereq": "Pre-Calculus /Trig 2 Honors or Pre-Calculus/Trig 2",
+	"description": "AP Calculus AB introduces differential and integral calculus, as in a first semester college calculus course. Recommended for students with a high B average in prior math courses. Curriculum is aligned to College Board guidelines, prepares the student for the Advanced Placement Calculus AB exam. Students who enroll in AP Calculus AB may apply to earn four (4) hours of college credit through Indiana University’s mathematics department(Course M211). Students are charged reduced university tuition per credit hour and credits are transferable to several universities in the country. Students who take this course for college credit should inform the counselor at the time of scheduling. Fees are due within the first two weeks of the first semester. After acceptance by the ACP office of IU, withdrawal from the M211 IU course is available in October. Students are required to complete a summer review packet. Students need a TI-nspireCX, TI-nspire CX CAS or TI 84 Plus graphing calculator."
+},
+{"id": "2572", "name": "CALCULUS BC 1-2, AP/ACP M211-212", "semesters": "2", "credits": "2 FW", "AP": "Yes", "DC": ???, "IB": "No", "QR": "Yes", "classification": "Advanced Placement", "prereq": "Pre-Calculus/Trig 2 Honors",
+	"description": "AP Calculus BC is a college-level course designed for highly motivated math students, competentin analytical and technical skills. Curriculum is aligned to College Board guidelines and covers the standard first two semesters of college calculus. Students will be prepared for the AP Calculus BC exam and may earn two semesters of college credit. Students are encouraged to take the AP exam. Students who enroll in AP Calculus BC may apply to earn four (4) hours of college credit each semester. Students are enrolled in courses M211 and M212, and are charged reduceduniversity tuition per credit hour. Students who participate in the ACP program should inform the counselor at the time of scheduling. Fees are due when billed by Indiana University. Once a student application is accepted by the ACP Office of IU, withdrawal from the course is available in October. Students need a TInspire CX CAS graphing calculator."
+},
+{"id": "2544", "name": "MULTIVARIABLE CALCULUS/ACP M311", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "Yes", "IB": "No", "QR": "No", "classification": "Duel Credit", "prereq": "AP Calculus BC 1-2",
+"description": "Intended for students with a solid background in mathematics, competent in a range of analytical and technical skills. Students will be expecting to include mathematics as a major component of their university studies, as a subject in its own right, or within courses such as physics, engineering, and technology. Students enjoy the challenges of mathematics and problem solving. Includes topics from the third semester of college Calculus. Students review topics from Calculus BC and previous math courses to meet the requirements of the Mathematics HL in the International Baccalaureate program. Time can be given to each topic to enhance students understanding through use of technology and explorations. Students need a TInspire CX CAS graphing calculator."
+}，
+{"id": "2564 and 2566", "name": "PRE-CALCULUS/ TRIGONOMETRY 1-2, INTERMEDIATE", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": "Algebra II 2",
+"description": "Pre-Calculus Intermediate is recommended for those students who have maintained a “C” average or above in prior math courses. First semester topics include the theory of equations, exponential and logarithmic functions,polynomial and rational functions, and sequences and series. Second semester provides for the development of trigonometric functions, their properties and graphs, inverse trig functions, trig equations and identities, Law of Sines and Law of Cosines, as well as applications of the trig functions and conics. Prepares students for AP Statistics, Finite Mathematics, Quantitative Reasoning or IB Math. This course does not fulfill the prerequisite for Calculus Survey/M119, AP Calculus AB 1-2 or AP Calculus BC 1-2. Students need a scientific calculator, such as the TI-30XIIS."
+},
+{"id": "2564 and 2566", "name": "PRE-CALCULUS/ TRIGONOMETRY 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": "Algebra II 2 or Algebra II 2, Honors",
+"description": "Pre-Calculus blends concepts and skills that must be mastered prior to enrollment in a college-level calculus course or other college-level math courses. A functional approach provides for the integration of trigonometric concepts, relationships of equations and their graphs and applications of real world problems. Students are required to complete a summer review packet. Students need a scientific calculator, such as the TI-30XIIS."
+},
++++++++++++++++++++++++++++
++++++++++++++++++++++++++++
++++++++++++++++++++++++++++
+{
+	"id": "2564 and 2566", "name": "PRE-CALCULUS/ TRIGONOMETRY HONORS", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Honors", "prereq": "Algebra II 2, Honors",
+	"description": "This course provides formal development of the algebraic,
+trigonometric, and other pre-calculus skills. These are the
+concepts necessary for the students who will take a calculus
+course and other college level mathematics courses. The
+instructional program will provide ways to use algebraic
+skills, graphic techniques, and a wide range of applications.
+Students will further develop an appreciation of the
+contributions made by mathematicians such as De Moivre
+and Euler. Topics include: algebra and coordinate geometry
+for pre-Calculus, algebraic and transcendental functions
+and graphs, analytic geometry and trigonometry, matrices,
+parametric equations, mathematical induction, binomial
+theorem, series, and sequences.
+Students taking this course will be required to have a
+scientific calculator. They are also encouraged to have a TInspire CX CAS graphing calculator."
+},
+{
+	"id": "2588", "name": "IB MATHEMATICS: Analysis and Approaches SL 1-2", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "No", "IB": "Yes", "QR": "Yes", "classification": "IB", "prereq": "Algebra II-1-2 or Algebra II Honors 1-2",
+	"description": "This SL course blends all of the concepts and skills that must
+be mastered prior to the enrollment in a college-level math
+course. A functional approach provides for the integration of
+trigonometric concepts, relationships of equations and their
+graphs and applications of real world problems. Students
+in this class will complete various projects in addition to
+traditional evaluations. The emphasis of this course is to
+help students obtain a well-rounded understanding of all
+topics. They will demonstrate this understanding through a
+mandatory exploration. The exploration is a thesis like project
+where students will apply the math they’ve learned to an
+area of interest. Students enrolled in this course will be able
+to choose to take an external exam, either the SL exam at the
+end of this school year or continue on to IB MATHEMATICS:
+Analysis and Approaches HL 1-2 and take the HL exam at the
+end of the second year.
+Calculator Requirement: TI-Nspire CX, or TI-Nspire CAS"
+},
+{
+	"id": "2590", "name": "IB MATHEMATICS: Analysis and Approaches HL 1-2", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "No", "IB": "Yes", "QR": "Yes", "classification": "IB", "prereq": "IB MATHEMATICS: Analysis and Approaches SL 1-2",
+	"description": "This HL course extends students’ knowledge from Analysis
+and Approaches SL
+This course is intended to follow Analysis and Approaches
+SL. It will review topics from the standard level course and
+delve deeper into the same syllabus content as the Analysis
+and Approaches SL Mathematics course description. This
+course will appeal to students with a good background in
+mathematics who are competent in a range of analytical
+and technical skills. This course will help students retain
+the Calculus they have learned in their sophomore and
+junior years and prepare them for further mathematics in
+college. Ample time will be given to explore each topic and
+to enhance students’ understanding through the use of
+technology and explorations.
+Calculator Requirement: TI-Nspire CX, or TI-Nspire CAS"
+},
+{
+	"id": "2592", "name": "IB MATHEMATICS: Applications and Interpretations SL 1-2", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "No", "IB": "Yes", "QR": "Yes", "classification": "IB", "prereq": "Algebra II-1-2 or Algebra II Honors 1-2",
+	"description": "This course is intended for students with varied backgrounds
+and abilities. More specifically, it is designed to build
+confidence and encourage an appreciation of mathematics
+in students who do not anticipate a need for mathematics in
+their future studies. Students taking this course need to be
+already equipped with fundamental skills and a rudimentary
+knowledge of basic processes. This course concentrates
+on mathematics that can be applied to contexts related as
+far as possible to other subjects being studied, to common
+real-world occurrences and to topics that relate to home,
+work, and leisure situations. The course requires students
+to produce a project, a piece of written work based on
+personal research, guided and supervised by the teacher. The
+project provides an opportunity for students to carry out a
+mathematical investigation in the context of another course
+being studied, a hobby or an area of interest of their choice
+using skills learned before and during the course. Students
+taking this course will be required to have a TI-nspire CX, TInspire CX CAS or TI 84 Plus graphing calculator."
+},
+{
+	"id": "2594", "name": "IB MATHEMATICS: Applications and Interpretations HL 1-2", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "No", "IB": "Yes", "QR": "Yes", "classification": "IB", "prereq": "IB MATHEMATICS: Applications and Interpretations SL 1-2",
+	"description": "This HL course extends students’ knowledge from
+Applications and Interpretations SL
+This course is intended to follow Applications and
+Interpretations SL. It will review topics from the standard
+level course and delve deeper into the same syllabus content
+as the Applications and Interpretations SL Mathematics
+course description. This course is intended to meet the needs
+of students whose interest in mathematics is more practical
+than theoretical but seek more challenging content."
+},
+{
+	"id": "2516", "name": "ALGEBRA 1 Lab", "semesters": "1", "credits": ".5", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Supplemental", "prereq": "Selection process",
+	"description": "Algebra 1 Lab is a supplemental course. Students will be
+placed based on their performance in previous math classes
+and standardized test scores. The focus of this course is
+two-fold:
+1) Students will work on strengthening the prerequisite
+mathematical and study skills needed to be successful in
+Algebra I
+2) Students will be provided additional assistance with the
+material they are learning in Algebra I."
+},
+{
+	"id": "2520A", "name": "APPLIED ALGEBRA I", "semesters": "2", "credits": "4 Maximum", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Special Services", "prereq": "None",
+	"description": "Applied Algebra I formalizes and extends the mathematics
+students learned in the middle grades. Algebra I is made up
+of 4 strands: Numbers Sense, Expressions and Computation;
+Linear Equations, Inequalities, and Functions; Systems of
+Equations and Inequalities; and Quadratic and Exponential
+Equations and Functions. The strands are further developed
+by focusing on the content of the Algebra content
+connectors."
+}
+]

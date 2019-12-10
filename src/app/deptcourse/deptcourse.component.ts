@@ -29,7 +29,7 @@ export class DeptcourseComponent implements OnInit {
     };
       dialogConfig.disableClose = true;
       dialogConfig.autoFocus = true;
-      dialogConfig.height= '400px';
+      dialogConfig.height= '700px';
       dialogConfig.width='600px'; 
       dialogConfig.data = this.course;
       dialogConfig.panelClass = 'POC-mat-dialog-container';

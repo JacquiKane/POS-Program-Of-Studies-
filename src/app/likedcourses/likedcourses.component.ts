@@ -8,11 +8,21 @@ import { CourseService } from '../course.service';
 })
 export class LikedcoursesComponent implements OnInit {
   studentLikedCourses = [];
+  totalCredits: number;
+
   constructor(private service: CourseService) { }
 
   ngOnInit() {
     this.studentLikedCourses = this.service.likedCourses;
 
+  }
+
+  getTotalCredits()
+  {
+    for (let courseNum = 0; courseNum < this.studentLikedCourses.length; courseNum++) {
+      this.totalCredits += +this.studentLikedCourses[courseNum].credits;
+    }
+    console.log(this.totalCredits);
   }
 
 }

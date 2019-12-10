@@ -1,0 +1,277 @@
+{
+  "courses": 30,
+  "chair": "Jennifer Drudge",
+  "name": "Science",
+  "allcourses": [
+    {
+      "credits": 2,
+      "name": "BIOLOGY I (3024)",
+      "weight": "regular",
+      "description": "Biology I is a course based on regular laboratory investigations that include a study of the characteristics of living organisms as outlined in the Indiana Academic Standards. Students enrolled in Biology I explore the functions and processes of cells, including cellular chemistry, matter and energy cycles, cellular reproduction, and the molecular basis of heredity. In addition, the topics of genetics, biological evolution, and the ecology are explored. Throughout the course, students will gain an understanding of the nature of science including the history and development of biological knowledge. This is a required Core 40 and AHD course. The ECA will be administered in the spring. Fee $7.00/yr ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Regular"
+    },
+    {
+      "credits": 2,
+      "name": "BIOLOGY I, Honors (3024)",
+      "weight": "partial",
+      "description": "Honors Biology I provides an in depth study of life at different levels of organization as outlined in the Indiana Academic Standards. All content is covered with an emphasis on the nature of scientific inquiry. Topics include cellular chemistry, cell structure and function, matter and energy cycles, DNA and gene expression, cellular reproduction, genetics, biological evolution, and ecology. Peer collaboration, laboratory investigations, communication of scientific data, and student projects are major components of this course. This is a required Core 40 and AHD course. The ISTEP will be administered in the spring. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Honors Recommendation"
+    },
+    {
+      "credits": 1,
+      "name": "ADVANCED SCIENCE, ZOOLOGY (3092)",
+      "weight": "regular",
+      "description": "Course Length This Advanced Science Core 40 course will present an in-depth study of evolutionary relationships used in the classification of organisms into their representative phyla. Students will study comparative embryology, taxonomy, anatomy and physiology of the major phyla of invertebrates and vertebrates. Students will do laboratory work in dissection and histology. The purpose of a study in invertebrate and vertebrate zoology is to expose the students to an evolutionary, embryological, systematic, and physical comparison of phyla of the animal kingdom. This Advanced Science, Special Topics course qualifies for Core 40 and AHD credit. Fee ",
+      "id": 0,
+      "semesters": 1,
+      "classification": "Regular"
+    },
+    {
+      "credits": 1,
+      "name": "ADVANCED SCIENCE, BOTANY (3092)",
+      "weight": "regular",
+      "description": "Botany is an upper level science course that will study plant varieties, functions and environmental roles. The course will include laboratory and field work. Fee ",
+      "id": 0,
+      "semesters": 1,
+      "classification": "Regular"
+    },
+    {
+      "credits": 2,
+      "name": "ADVANCED SCIENCE, HUMAN ANATOMY AND PHYSIOLOGY BIOLOGY (5276)",
+      "weight": "full",
+      "description": "better) Course Length Human Anatomy and Physiology is the study of the structure and function of the body and how those parts relate to one another. The course begins at the molecular/cellular level and proceeds through the study of tissues and organ systems. Discussions on disease and injuries are an integral part of the course. Dissections of animal organs and a fetal pig will also be performed. This is a college level anatomy and physiology class. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "IB"
+    },
+    {
+      "credits": 1,
+      "name": "ADVANCED SCIENCE, HUMAN GENETICS (3092)",
+      "weight": "regular",
+      "description": "This one-semester course in Human Genetics will include a review of basic genetics, embryology, human traits and variations, causes and prevention of birth defects, karyotyping, pedigrees, blood groups, cloning, DNA fingerprinting, telomeres and aging, the Human Genome Project, chromosome syndromes and bioethics. This is an Advanced Science Core 40 and AHD course. Fee ",
+      "id": 0,
+      "semesters": 1,
+      "classification": "Regular"
+    },
+    {
+      "credits": 2,
+      "name": "BIOLOGY, ADVANCED PLACEMENT (3020)",
+      "weight": "full",
+      "description": "AP Biology is a challenging course designed for students who may be interested in studying a life sciences major in college. Topics covered include evolution, ecology, biochemistry, cells, microbiology, animals, plants, and genetics. The AP Biology curriculum centers on four \u201cBig Ideas\u201d evolution drives the diversity and unity of life. 2) Biological systems utilize energy and molecular building blocks to grow, to reproduce and to maintain homeostasis. 3) Living systems store, retrieve, transmit and respond to information essential to life processes. 4) Biological systems interact, and these systems and their interactions possess complex properties. This course qualifies for Core 40 and AHD credit. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "AP"
+    },
+    {
+      "credits": 2,
+      "name": "PLTW, PRINCIPLES OF BIOMEDICAL SCIENCE (5218)",
+      "weight": "full",
+      "description": "In the introductory course of the PLTW Biomedical Science program, students explore concepts of biology and medicine to determine factors that led to the death of a fictional person. While investigating the case, students examine autopsy reports, investigate medical history, and explore medical treatments that might have prolonged the person\u2019s life. The activities and projects introduce students to human physiology, basic biology, medicine, and research processes while allowing them to design their own experiments to solve problems. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "PLTW"
+    },
+    {
+      "credits": 2,
+      "name": "PLTW, HUMAN BODY SYSTEMS (5216)",
+      "weight": "full",
+      "description": "Students examine the interactions of human body systems as they explore identity, power, movement, protection, and homeostasis. Exploring science in action, students build organs and tissues on a skeletal Maniken®; use data acquisition software to monitor body functions such as muscle movement, reflex and voluntary action, and respiration; and take on the roles of biomedical professionals to solve real-world medical cases. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "PLTW"
+    },
+    {
+      "credits": 2,
+      "name": "PLTW, MEDICAL INTERVENTIONS (5217)",
+      "weight": "full",
+      "description": "Body Systems Students follow the life of a fictitious family as they investigate how to prevent, diagnose, and treat disease. Students explore how to detect and fight infection; screen and evaluate the code in human DNA; evaluate cancer treatment options; and prevail when the organs of the body begin to fail. Through realworld cases, students are exposed to a range of interventions related to immunology, surgery, genetics, pharmacology, medical devices, and diagnostics. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "PLTW"
+    },
+    {
+      "credits": 2,
+      "name": "PLTW, BIOMEDICAL INNOVATIONS (5219)",
+      "weight": "regular",
+      "description": "In this capstone course, students apply their knowledge and skills to answer questions and solve problems related to the biomedical sciences. Students design innovative solutions for the health challenges of the 21st century as they work through progressively challenging open-ended problems, addressing topics such as clinical medicine, physiology, biomedical engineering, and public health. Students will also spend the final quarter working on an independent project. In addition to the regular coursework, students will be provided opportunities to shadow professionals with careers in biomedical science and health care. Because students will be expected to shadow a minimum of 20 hours, students should be motivated to explore biomedical related careers. Applicants will be responsible for arranging his/her own transportation to and from the shadowing locations. The school reserves the right to reassign participants to a study hall if they are unwilling or unable to satisfactorily represent Carmel High School in a professional setting. For students to be successful in this course, they need strong time management skills, an enthusiasm for learning, the ability to take initiative and be self directed, a positive attitude, and strong work ethic. Shadowing could be done on designated school days if student\u2019s senior schedule allows for it. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "PLTW"
+    },
+    {
+      "credits": 1,
+      "name": "ADVANCED SCIENCE, MATERIALS CHEMISTRY",
+      "weight": "regular",
+      "description": "Materials chemistry course is a 1 semester course that will focus on solids. Students will do numerous labs for various types of solids. This class is intended for students who enjoyed Chemistry I but are not inclined to take AP Chemistry. Fee ",
+      "id": 0,
+      "semesters": 1,
+      "classification": "Regular"
+    },
+    {
+      "credits": 2,
+      "name": "INTEGRATED CHEMISTRY PHYSICS (3108)",
+      "weight": "regular",
+      "description": "have earned credit in Chemistry or Physics Integrated Chemistry-Physics is an introductory, laboratory-based course in which students explore fundamental chemistry and physics principles. Students will examine the structure and properties of matter, chemical reactions, motion, forces, and the interactions between energy and matter. Students in need of a more conceptual introduction to either Chemistry or Physics should consider this course. ICP is not a substitute for full-year chemistry or physics, but it does satisfy Indiana Core 40 diploma requirements in the physical sciences category. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Regular"
+    },
+    {
+      "credits": 2,
+      "name": "CHEMISTRY I (3064)",
+      "weight": "regular",
+      "description": "Course Length In this course, students will study aspects of chemistry such as physical and chemical changes, matter, the arrangement of the periodic table, the mole, chemical reactions, gas laws, thermochemistry and other various topics. This course requires good problem solving skills and is a laboratory course. Students will need a scientific calculator. This is a Core 40 and AHD Physical Science course. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Regular"
+    },
+    {
+      "credits": 2,
+      "name": "CHEMISTRY I, HONORS (3064)",
+      "weight": "partial",
+      "description": "recommendation Honors Chemistry students will be challenged to a depth of understanding and analytical problem solving skills in the following topics structure, periodic law, chemical bonding and nomenclature, reaction types and balancing, stoichiometry, gas laws, solutions and colligative properties, acids and bases, energy and kinetics, equilibrium, redox and electrochemistry, and the basics of organic chemistry. This is a Core 40 and AHD Physical Science course. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Honors"
+    },
+    {
+      "credits": 1,
+      "name": "ADVANCED SCIENCE, INTRODUCTION TO ORGANIC CHEMISTRY/BIO CHEMISTRY (3092)",
+      "weight": "regular",
+      "description": "Organic chemistry studies carbon compounds and their reactions to produce new and unique molecules. The course focuses on the application of chemical concepts to understanding how and why reactions occur, and ultimately how reactions can be used to create a desired product. Laboratory work and independent research are used to build essential skills and learn important applications such as aspirin synthesis and alcohol fermentation. This course qualifies for Core 40 and AHD credit under the Advanced Science, Special Topics category. Fee ",
+      "id": 0,
+      "semesters": 1,
+      "classification": "Regular"
+    },
+    {
+      "credits": 2,
+      "name": "CHEMISTRY, AP (3060)",
+      "weight": "full",
+      "description": "Honors Chemistry with a B or better or Regular Chemistry with an A or better Chemistry, Advanced Placement (L) is a course that follows the College Board\u2019s Advanced Placement course outline. The course is intended for the students who are planning on pursuing a career in a field of science. The course emphasizes problem solving. Approximately 30-50% of class time will be devoted to laboratory activities. The course meets Indiana Core 40 and AHD requirements in the area of Physical Science. Students enrolled in the course prepare for the College Board\u2019s Chemistry Advanced Placement Examination. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "AP"
+    },
+    {
+      "credits": 2,
+      "name": "PHYSICS I (3084)",
+      "weight": "regular",
+      "description": "Physics I is a laboratory-based course in which students will study the laws which dictate our universe. Topics include mechanics (kinematics, forces, energy and momentum), electricity, magnetism, waves (sound, light and optics), temperature and some aspects of modern physics. Regular laboratory experiments will be performed in small groups promoting collaboration among peers. Physics I will emphasize problem solving using mathematics. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Regular"
+    },
+    {
+      "credits": 2,
+      "name": "PHYSICS-I, AP (3080)",
+      "weight": "full",
+      "description": "only for students with Bs or better. AP Physics 1 follows the College Board guidelines for Advanced Placement Physics 1. This course is intended for the students who plan to major in science in college or for those who plan to take AP Physics 2 or AP Physics C the following year. It is a laboratory-based course in which students will study the laws which dictate our universe. Topics include mechanics (kinematics, forces, energy and momentum), electricity, magnetism, waves (sound, light and optics), thermodynamics, fluid mechanics and modern physics. AP Physics 1 will emphasize problem solving using higher levels of mathematics than required in regular Physics I and the pace of AP Physics 1 is faster than Physics I since more material is covered during the year. Trigonometry will be taught to the extent it is needed. This course prepares students for the Physics 1 Advanced Placement Exam. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "AP"
+    },
+    {
+      "credits": 2,
+      "name": "PHYSICS-II, AP (3080)",
+      "weight": "full",
+      "description": "Algebra II 1-2; Physics 1, AP Physics 1, or IB Physics SL AP Physics II follows the College Board guidelines for Advanced Placement Physics II. AP Physics II is an algebrabased, introductory college-level physics course that explores topics such as fluid statics and dynamics; thermodynamics with kinetic theory; PV diagrams and probability; electrostatics; electrical circuits with capacitors; magnetic fields; electromagnetism; physical and geometric optics; and quantum, atomic, and nuclear physics. Through inquiry-based learning, students will develop scientific critical thinking and reasoning skills. This course prepares students for the Physics 2 Advanced Placement Exam. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "AP"
+    },
+    {
+      "credits": 2,
+      "name": "PHYSICS C, ADVANCED PLACEMENT (3088)",
+      "weight": "full",
+      "description": "or BC (concurrent or already taken) or Calculus Survey with physics teacher recommendation Course Length AP Physics C follows the College Board guidelines for Advanced Placement Physics C. This course is designed for students who plan to major in science or engineering in college. The first semester of this course covers advanced topics in Mechanics. A basic working knowledge of Calculus will be taught and applied to Physics problems and concepts. The second semester of this course covers advanced topics in Electricity and Magnetism. Students enrolled in this course prepare for the College Board\u2019s Physics C Advanced Placement Examination. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Advanced Placement"
+    },
+    {
+      "credits": 2,
+      "name": "EARTH AND SPACE SCIENCE I (3044)",
+      "weight": "regular",
+      "description": "Meteorology or Physical Geology) Earth Science is a laboratory science course which explores the origins and connections between the physical, chemical, and biological processes of the Earth system. This course examines Earth\u2019s materials, and changes of the surface and interior. Included is a look at the forces which cause these changes, interpreted within the context of plate tectonics. Earth Science also examines the interaction between Earth\u2019s weather and climate. Finally, a major division of Earth Science is astronomy, the study of our solar system, stars and the universe. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Regular"
+    },
+    {
+      "credits": 1,
+      "name": "ADVANCED SCIENCE, ASTRONOMY (3092)",
+      "weight": "regular",
+      "description": "Core 40 science This course is available for dual credit in partnership with the University of Indianapolis. If students are interested and meet the requirements, there will be an approximate cost of $500. Astronomy is the study of the physical nature of objects in the universe and methods used by scientists to understand them. Topics covered in this course are nebulae, galaxies and cosmology. Current and future NASA projects and research are a key aspect of the course. Students use the Carmel Planetarium as a classroom. This course is recognized for Core 40 and AHD credit. Students wishing to enroll in Astronomy must successfully complete a full year of Core 40/AHD science prerequisite. Fee ",
+      "id": 0,
+      "semesters": 1,
+      "classification": "Regular, Dual Credit Available"
+    },
+    {
+      "credits": 1,
+      "name": "ADVANCED SCIENCE, METEOROLOGY (3092)",
+      "weight": "regular",
+      "description": "This course will focus on the basic principles of weather. Topics include developing an understanding of physical processes responsible for daily weather changes, through laboratory and field studies. We will begins with an overview of the components making up the atmospheric environment. Weather fronts, air masses, and severe weather will be examined. Various types of technology will be used in monitoring weather patterns. Guest speakers may be used to discuss how professional services develop forecasts on a daily basis. Students enrolled in this course will research and prepare class presentations. Fee ",
+      "id": 0,
+      "semesters": 1,
+      "classification": "Regular"
+    },
+    {
+      "credits": 1,
+      "name": "ADVANCED SCIENCE, PHYSICAL GEOLOGY (3092)",
+      "weight": "regular",
+      "description": "This course is an overview of concepts studied in physical geology. Students will study the structure and dynamics of Planet Earth and their impact on human beings. Plate tectonics and its relationship to landforms and catastrophic events, weathering and erosion, and earth resources are some topics that will be studied. This course is an Advanced Science, Special Topics course qualifying for Core 40 and AHD credit. Fee ",
+      "id": 0,
+      "semesters": 1,
+      "classification": "Regular"
+    },
+    {
+      "credits": 2,
+      "name": "ENVIRONMENTAL SCIENCE, AP (3012)",
+      "weight": "full",
+      "description": "Honors Biology or Honors Chemistry AP Environmental Science integrates concepts from Biology, Earth Science, Chemistry, and Social Sciences in the study of modern environmental issues. This college-level course is designed to provide students with the scientific principles, concepts and methodologies required to understand the interrelationships of the natural world, to identify and analyze environmental problems, both natural and humanmade, to evaluate the relative risks associated with these problems, and to examine alternative solutions for resolving or preventing them. Through lab and field investigations, students will explore ecosystems, populations, renewable and non-renewable resources, land and water use, pollution, and global change. Curriculum is aligned to that recommended by the College Board and is designed to prepare students for the Advanced Placement Environmental Science Examination. Fee ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Advanced Placement"
+    },
+    {
+      "credits": 2,
+      "name": "INDEPENDENT RESEARCH: SCIENCE RESEARCH, INDEPENDENT STUDY (3008)",
+      "weight": "regular",
+      "description": "approval In Science Research, Independent Study, students will build on the knowledge and skills gained from previous PLTW courses. Students will focus on the most pressing health challenges of the 21st century. Students will address a variety of topics in the health science field and will have the opportunity to work on an independent or small group project. A student wanting to take Independent Study that has not had PLTW Medical Interventions will need approval from the department chair. ",
+      "id": 0,
+      "semesters": 2,
+      "classification": "Science Research"
+    },
+    {
+      "credits": 4,
+      "name": "BIOLOGY, HIGH LEVEL, IB (3032) 1-2;3-4",
+      "weight": "full",
+      "description": "Chemistry I, Honors IB Biology is a \u201cHigh Level\u201d two-year course which all IB Diploma candidates need to take here at Carmel High School. Alternately, students who are not IB Diploma candidates may earn an \u201cIB certificate\u201d for completing this course. This class also fulfills the requirements for Human Anatomy & Physiology and the AP Biology curriculum. Students will be prepared to sit for the IB Biology HL exam and AP exam. Topics covered include human anatomy & physiology, evolution, ecology, biochemistry, cells, microbiology, animals, plants, and genetics. Lab work is very student- driven and each student will have many opportunities to design and carry out his or her own labs. Fee ",
+      "id": 0,
+      "semesters": 4,
+      "classification": "IB"
+    },
+    {
+      "credits": 4,
+      "name": "PHYSICS, STANDARD LEVEL IB (3098)",
+      "weight": "full",
+      "description": "Chemistry I or Chemistry I Honors, Geometry and Algebra II-2. IB Physics (SL) is a course focused on the study of Newtonian mechanics, forces, thermal physics, waves, electricity, magnetism, and nuclear physics. Students will have opportunities to learn the historical development of physics through models, laws, theories, and their applications. The course emphasizes problem solving and student-driven lab inquiry. This course intends to develop student understanding, use, and evaluation of scientific facts, concepts, methods, and techniques. IB Physics SL is a beneficial class to students pursuing a science-related field in college and/or an IB diploma. This course is a 2 year commitment. ",
+      "id": 0,
+      "semesters": 4,
+      "classification": "IB"
+    },
+    {
+      "credits": 4,
+      "name": "PHYSICS, HIGH LEVEL IB (3096)",
+      "weight": "full",
+      "description": "Chemistry I Honors, Geometry and Algebra II-2. IB HL Physics is a two-year course. IB Physics HL is a course focused on the study of Newtonian mechanics, thermal physics, waves, electricity, magnetism, and nuclear physics. Students will have opportunities to learn the historical development of physics through models, laws, theories, and their applications. The course emphasizes problem solving and student-driven lab inquiry. The level of the course is comparable to a first-year course in physics at a university, but with an emphasis on conceptual understanding. The HL Physics course is designed to give students a good preparation for the demands of university calculus-based courses in physics. IB Physics HL is ideal for students with a strong interest in fields such as engineering, physics, mathematics, or architecture. Fee ",
+      "id": 0,
+      "semesters": 4,
+      "classification": "IB"
+    }
+  ]
+}

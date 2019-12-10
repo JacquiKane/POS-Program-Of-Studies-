@@ -1,39 +1,53 @@
+<div class="mat-container CHSSearchCourses">
+    <form #searchform="ngForm" (ngSubmit)="onSubmit(formData)" class="form CHSSearchCourse">
 
-<div class="mat-container CHSSearchCourses">      
-        <form #searchform="ngForm" (ngSubmit)="onSubmit(formData)" class="form CHSSearchCourse">
- 
-            <h4 class="POCFormField">Find courses using credit criteria</h4>
-            <span class="form-field POCFormField">
-                    <input type="submit" value="Find Courses">
-            </span>
-    
-            <span class="form-field POCFormField">
-                <label for="credits">Credits : </label>
-                <select [(ngModel)]="mustHaveCredits" name="credits" id="credits"  [ngModelOptions]="{standalone: true}">
-                    <option *ngFor="let cred of coursecredits">
-                        {{cred}}
+        <h4 class="POCFormField">Find courses using credit criteria</h4>
+        <span class="form-field POCFormField">
+            <input type="submit" value="Find Courses">
+        </span>
+        <button mat-icon-button class="ButtonPosn" color="primary" type="submit "(ngSubmit)="onSubmit(formData)">
+                <mat-icon>search</mat-icon>
+                </button>
+        <span class="form-field POCFormField">
+            <label for="credits">Credits : </label>
+            <select [(ngModel)]="mustHaveCredits" name="credits" id="credits" [ngModelOptions]="{standalone: true}">
+                <option *ngFor="let cred of coursecredits">
+                    {{cred}}
+                </option>
+            </select>
+        </span>
+
+        <span class="form-field POCFormField">
+                <label for="credits">Weighted : </label>
+                <select [(ngModel)]="weights" name="weighted" id="weighted" [ngModelOptions]="{standalone: true}">
+                    <option *ngFor="let weight of weights">
+                        {{weight}}
                     </option>
                 </select>
             </span>
- 
-            <span class="form-field POCFormField">
-                <input type="checkbox" [(ngModel)]="isWeighted" name="weighted" id="weighted"  [ngModelOptions]="{standalone: true}">Weighted
+        <span class="form-field POCFormField">
+            <input type="checkbox" [(ngModel)]="isAP" name="ap" id="ap" [ngModelOptions]="{standalone: true}">AP
+        </span>
+        <span class="form-field POCFormField">
+                <input type="checkbox" [(ngModel)]="isIB" name="International Baccalaureate" id="ib"
+                    [ngModelOptions]="{standalone: true}">International Baccalaureate
             </span>
-            <span class="form-field POCFormField">
-                    <input type="checkbox" [(ngModel)]="isAP" name="ap" id="ap"  [ngModelOptions]="{standalone: true}">AP
-                </span>
-                <span class="form-field POCFormField">
-                        <input type="checkbox" [(ngModel)]="isDualCredit" name="dualcredit" id="dualcredit"  [ngModelOptions]="{standalone: true}">Dual Credit
-                    </span>
-        </form>
+        <span class="form-field POCFormField">
+            <input type="checkbox" [(ngModel)]="isDualCredit" name="dualcredit" id="dualcredit"
+                [ngModelOptions]="{standalone: true}">Dual Credit
+        </span>
+        <span class="form-field POCFormField">
+                <input type="checkbox" [(ngModel)]="isQuantativeReasoning" name="Quantatative Reasoning" id="quantativereaoning"
+                    [ngModelOptions]="{standalone: true}">Quantatative Reasoning
+            </span>
+
+    </form>
 </div>
 
 <div class="CHSSearchedCourses">
-        <section>
-                <app-deptcourse               
-                  *ngFor = "let singlecourse of filteredcourses"
-                  [course] = "singlecourse">
-                </app-deptcourse>
-        </section>
- 
+    <section>
+        <app-deptcourse *ngFor="let singlecourse of filteredcourses" [course]="singlecourse">
+        </app-deptcourse>
+    </section>
+
 </div>

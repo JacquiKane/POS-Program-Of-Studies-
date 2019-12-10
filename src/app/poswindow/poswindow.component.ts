@@ -12,6 +12,7 @@ export class POSWindowComponent implements OnInit {
 
   constructor(private service: CourseService) { 
     this.allDepts = service.getAllDeptsAsObjs();
+    console.log(this.allDepts);
   }
 
   ngOnInit() {
@@ -42,6 +43,6 @@ export class POSWindowComponent implements OnInit {
                     {"name":"Languages","chair":"O'Brien", "courses":"34", "id": "6", "allcourses":""},
                     {"name":"Science","chair":"rhodes", "courses":"34", "id": "7", "allcourses":""}
                      ];
-
+          this.allDepts = this.service.getAllDeptsAsObjs();
     }                   
   }

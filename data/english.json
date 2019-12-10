@@ -1,0 +1,277 @@
+{
+  "courses": 30,
+  "chair": "Kim Walker",
+  "name": "English",
+  "allcourses": [
+    {
+      "credits": "2",
+      "name": "ENGLISH 9 (1002)",
+      "weight": "regular",
+      "description": "An English class is required for all ninth grade students. This Indiana Academic Standards-based course provides students grammar, composition, literature, nonfiction, speech, and vocabulary instruction. Composition study includes formal and informal writing assignments for a variety of tasks, purposes, and audiences. Literature and nonfiction study encompasses various literary genres and themes. Oral communication emphasizes effective listening and speaking techniques. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Regular"
+    },
+    {
+      "credits": "2",
+      "name": "ENGLISH 9, HONORS, 1-2 (1002)",
+      "weight": "partial",
+      "description": "This class is the honors alternative to English 9 and teaches the 10th grade Indiana Academic Standards. This course provides students with challenging literature, composition, and grammar experiences. Composition study includes formal and informal writing assignments for a variety of tasks, purposes, and audiences. Literature and nonfiction study encompasses various literary genres and various literary themes. Oral communication emphasizes effective listening and speaking techniques. The purpose of the course is to prepare students to take college-level English courses in junior and senior year. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Honors"
+    },
+    {
+      "credits": "2",
+      "name": "ENGLISH 9, Honors 1-2/WORLD HISTORY AND CIVILIZATION,",
+      "weight": "partial",
+      "description": "Honors, 1-2 (1002/1548) This course offers in interdisciplinary study of the history, literature, and culture of societies throughout the history of the world, while exploring the essential questions of the human condition. The course emphasizes reading, writing, and critical thinking through the textual analysis of literature and primary historical documents, modern research techniques,and oral presentation. Student will receive .5 weighted credit for Honors English, and .5 weighted credit for World History. It is intended to provide extra support for students who would like to challenge themselves and enroll in an honors-level course, although they have not been a part of the honors program in the past. This course requires a twoperiod block of time and is team- taught and will satisfy the freshman English and social studies requirement. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Honors"
+    },
+    {
+      "credits": "2",
+      "name": "ENGLISH 10, I-2 (1004)",
+      "weight": "regular",
+      "description": "In the sophomore year, students must take a full year of English. This Indiana Acadmeic Standards-based course provides students grammar, composition, literature, nonfiction, speech, and vocabulary instruction. Composition study includes formal and informal writing assignments for a variety of tasks, purposes, and audiences. Literature and nonfiction study encompasses various literary genres and themes. Oral communication emphasizes effective listening and speaking techniques. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Regular"
+    },
+    {
+      "credits": "2",
+      "name": "ENGLISH 10, Honors, I-2 (1004)",
+      "weight": "partial",
+      "description": "This class is the honors alternative to English 10 and teaches the 11th grade Indiana Academic Standards. This course provides students with challenging literature, composition, and grammar experiences. Composition study includes formal and informal writing assignments for a variety of tasks, purposes, and audiences. Literature and nonfiction study encompasses various literary genres and various literary themes. Oral communication emphasizes effective listening and speaking techniques. The purpose of the course is to prepare students to take college-level English courses in junior and senior year. ENGLISH 11, 1-2 (1006) ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Honors"
+    },
+    {
+      "credits": "2",
+      "name": "Classification: Regular",
+      "weight": "regular",
+      "description": "English 11 is a two-semester Indiana Acadmeic Standardsbased course designed to help students develop their critical reading, writing, and thinking skills. Students will read from a variety of fiction and nonfiction works in a variety of genres. In addition, this course teaches composition and oral communication skills for a variety of tasks, purposes, and audiences with emphasis on the writing and research process. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": ""
+    },
+    {
+      "credits": "2",
+      "name": "ENGLISH 11, 1-2/ U. S. HISTORY 1-2 (AMERICAN STUDIES)",
+      "weight": "regular",
+      "description": "(1006/1542) The interdisciplinary approach of this course will enhance students\u2019 awareness of the relationship of historical events and literature. In addition to covering American writers, composition, and United States history, students will become aware that the American experience is a conglomerate, not separate historical events or literary movements. Novels, short stories, plays, and poetry will be used to enhance students\u2019 understanding of historical development. Based on the Indiana Academic Standards, successful completion of this course satisfies the junior requirements of two English and two social studies credits. This course requires a two- period block of time and is team-taught. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Regular"
+    },
+    {
+      "credits": "2",
+      "name": "CAPSTONE SEMINAR 1-2, ADVANCED PLACEMENT (0552)",
+      "weight": "full",
+      "description": "AP Seminar is the first of two courses in the AP Capstone™ program. Based on the AP Capstone Seminar curriculum, students will think critically, creatively, research, explore, pose solutions, develop arguments, collaborate, and communicate using various media. Students will explore real-world issues through a cross-curricular lens and consider multiple points of view to develop deep understanding of complex issues as they make connections between these issues and their own lives. Students will be prepared for both the internal and external assessments (written and oral) for the AP Capstone Seminar. Successful completion of this course satisfies the junior requirements of two English credits. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Advanced Placement"
+    },
+    {
+      "credits": "2",
+      "name": "CAPSTONE RESEARCH 1-2, ADVANCED PLACEMENT (551)",
+      "weight": "full",
+      "description": "Capstone Seminar 1-2 AP Research is the second course in the AP Capstone™ program. AP Seminar is a prerequisite for AP Research. AP Research allows students to deeply explore an academic topic,problem, or issue of individual interest. Through this exploration,students design, plan, and conduct a yearlong mentored, research-based investigation to address a research question. In the AP Research course, students further their skills acquired in the AP Seminar course by understanding research methods; employing ethical research practices; and accessing, analyzing, and synthesizing information as they address a research question. The course culminates in an academic thesis paper of approximately 5,000 words and a presentation, performance, or exhibition with an oral defense. Successful completion of this course satisfies the senior requirements of two English credits. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Advanced Placement"
+    },
+    {
+      "credits": "2",
+      "name": "CAPSTONE RESEARCH 1-2, Advanced Placement (0551)/",
+      "weight": "full",
+      "description": "STATISTICS 1-2, Advanced Placement (2570) Capstone Seminar 1-2 and Algebra II-2 This course will be taught collaboratively. The purpose of AP Stats is to help you develop analytical and critical thinking skills as you learn to describe data patterns and departures from patterns, plan and conduct studies, use probability and simulation to explore random phenomena, estimate population parameters, test hypotheses, and make statistical inferences. Given the focus on data analysis and its benefit to you as an AP Research student, who will be exploring an academic topic, problem, or issue that interests you and designing, planning, and conducting a year-long researchbased investigation to address it, AP Stats becomes a great course to pair with AP Research. Essentially, AP Research requires you to collect data, communicate your findings, and then analyze that data; all skills that AP Stats can teach you. Additionally, for students considering AP Stats, pairing the course with AP Research allows you to understand and experiment with the best ways in which to analyze your data. Students taking this course will be required to have a TI-nspire graphing calculator. It does not matter if it is the CAS or CX version. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Advanced Placement"
+    },
+    {
+      "credits": "2",
+      "name": "AP ENGLISH LITERATURE AND COMPOSITION 1-2, Advanced",
+      "weight": "full",
+      "description": "Placement (1058) AP English Literature and Composition is a full-year English course. This is an accelerated course for those students who show exceptional ability in English. One part of this course will use challenging reading assignments, mainly fiction, as a basis for close reading and thematic analysis of American and English Literature. Writing assignments include expository, analytical, and argumentative essays that require students to analyze and interpret literary works. Frequent writing assignments, both timed and formal, will encourage students to develop their abilities to critique and interpret readings, in preparation for the AP exam. Though prepared, students enrolled in this course are not required to take the corresponding AP test. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Advanced Placement"
+    },
+    {
+      "credits": "2",
+      "name": "AP ENGLISH LANGUAGE AND COMPOSITION 1-2, Advanced",
+      "weight": "full",
+      "description": "Placement (1056) AP English Language and Composition is a full-year English course. The course focuses on the development and revision of evidence-based analytic and argumentative writing and the rhetorical analysis of nonfiction texts. The course aligns to an introductory college-level rhetoric and writing curriculum, which requires students to develop evidence-based analytic and argumentative essays that proceed through several stages or drafts. Students will write numerous expository essays in which they explore and synthesize the effects of rhetorical techniques employed by nonfiction texts. Though prepared, students enrolled in this course are not required to take the corresponding AP test. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "Advanced Placement"
+    },
+    {
+      "credits": "4",
+      "name": "IB LANGUAGE A: LITERATURE HIGHER LEVEL, INTERNATIONAL",
+      "weight": "regular",
+      "description": "BACCALAUREATE ENGLISH 1-4 (1130) IB English A1 is a course in literature that is the first part of a two-year exploration of literature, studied in the English language. It maintains a world literature and international perspective so as to encourage and build understanding of other countries and diverse cultures. The program is comprised of four semester-long courses Oral Presentation of Literature, Written Analysis of World Literature, Detailed Study of Genres and Oral Commentary, and The Human Condition in World Drama. ",
+      "id": "0",
+      "semesters": "4",
+      "classification": "International Baccalaureate"
+    },
+    {
+      "credits": "1",
+      "name": "ENGLISH 12-1 COMPOSITION COURSES:",
+      "weight": "regular",
+      "description": "ENGLISH 12-1 This Indiana Academic Standards-based course is designed to enhance the writing and communication skills of the students through a variety of formal and informal, text-dependent compositions appropriate to a variety of tasks, purposes, and audiences. Students will build upon previous composition experiences and prepare students for future college writing courses. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "ENGLISH 12-1: W131 ACP CC COMPOSITION: ADV. ENGLISH/",
+      "weight": "regular",
+      "description": "LANGUAGE ARTS COLLEGE CREDIT (1124) W131 is a course in critical reading, writing, and thinking with sources in which students will experience the varied range of academic writing. Students will master the skills of summary, critique, analysis, synthesis, research, and documentation. Students will also learn to adapt the writing process and apply various organizational strategies to match the purpose of the individual assignment. Topics for writing will be developed from reading about and discussing in- depth issues under debate in different disciplinary fields and among the general public. A research paper is required for successful completion of the course. \u2022Students must be eligible for admission to Indiana University in order to be admitted to this course. Regular university fees will be charged, and credits are transferable to most colleges and universities in the country. You must pay the fees to take the course. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Advanced College Project"
+    },
+    {
+      "credits": "1",
+      "name": "ENGLISH 12-2: SPEECH (1076)",
+      "weight": "regular",
+      "description": "This is a public speaking course requiring students to use proper speech craft, structure, outlining techniques and polished presentations. Students will complete required reading and writing related to speaking opportunities. Students will deliver a variety of speeches appropriate to different audiences and purposes. Speech will help the student develop both self-confidence and the skills needed for success in college speaking courses as well as, future communication activities. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "ENGLISH 12-2: P155 ACP CC SPEECH: ADV. ENGLISH/",
+      "weight": "regular",
+      "description": "LANGUAGE ARTS COLLEGE CREDIT (1124) Course Length P155 is a course in college-level public speaking, and will focus on research and oral presentation through the study of formal speaking, listening skills, information literacy, and critical reading through in depth research and detailed analysis. This course will examine the two main purposes of presentation, persuasive and informative. In addition to providing instruction in writing clear, coherent, and organized arguments, this course will teach strategies for collecting and transforming data for use in individual student presentations and using criteria to evaluate the validity of the arguments presented by others. \u2022Students must be eligible for admission to Indiana University in order to be admitted to this course. Regular university fees will be charged, and credits are transferable to most colleges and universities in the country. You must pay the fees to take the course. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Advanced College Project"
+    },
+    {
+      "credits": "1",
+      "name": "ENGLISH 12-2: DEBATE 1 (1070)",
+      "weight": "regular",
+      "description": "This course is open to all high school students regardless of previous speech experience. Students will be exposed to Public Forum, Lincoln-Douglas, and Congressional debate styles as outlined by the National Forensic League. The student will gain skills in doing research, organizational techniques, critical listening critical and creative thinking, persuasive presentation, and self-confidence. Students will read the opinions and writings of philosophers, politicians, academics, and experts who are knowledgeable on specific debate topics. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "ENGLISH 12-2: DEBATE 2 (1070)",
+      "weight": "regular",
+      "description": "Debate 2 is open to students who have both successfully completed and passed Debate 1. In this course students will continue to use the expertise they acquired while taking Debate 1. Students will continue to develop as in-depth researchers, technical and persuasive writers and speakers, effective communicators, and perceptive and critical listeners. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "ENGLISH 12-2: L202 ACP CC: GENRES OF LITERATURE(LITERARY INTERPRETATION): ADV. ENGLISH/LANGUAGE ARTS COLLEGE CREDIT (1124)",
+      "weight": "regular",
+      "description": "Composition for IU Credit, SAT Critical Reading score of 670 or higher, ACT English score of 32 or higher, AP Language and Composition score of 4 or 5, OR AP Literature and Composition score of 4 or 5 This course emphasizes a close, thoughtful reading of representative literary texts in poetry, drama, fiction, novel (and appropriate nonfiction prose) originally written in English and drawn from a range of historical periods and countries. A major goal is to develop the ability to read and write with precision, responsibility, and imagination through class discussion and the writing of several short, critical responses. \u2022Students must be eligible for admission to Indiana University in order to be admitted to this course. Regular university fees will be charged, and credits are transferable to most colleges and universities in the country. You must pay the fees to take the course. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Advanced College Project"
+    },
+    {
+      "credits": "1",
+      "name": "AMERICAN LITERATURE (1020)",
+      "weight": "regular",
+      "description": "Open to 9, 10, 11, 12 American Literature, a one-semester course that is a study of representative works and authors of the United States from pre- Revolutionary times to the present. Students read, analyze, evaluate, critique, and actively respond to a wide variety of literary genres that reflect American culture, including quality works of various ethnic and cultural minorities. Students who are taking or have taken the regular American Studies block or the AP American Studies block are not eligible to take the course. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "BIBLICAL LITERATURE (1022)",
+      "weight": "regular",
+      "description": "This course is a non-religious approach to the study of selections from the Bible as literature. Sixty percent of the Hebrew and Christian testaments will be read. Emphasis is on authors, plot, characters, themes, and literary techniques. Work will focus on the historical, biographical, cultural, and geographical aspects of each book read. Writing and discussion assessments are included. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "ENGLISH LITERATURE (1030)",
+      "weight": "regular",
+      "description": "Open to 9,10,11, 12 This one-semester course, formerly titled British Literature, is an intense study of English literature including excerpts, poetry, and shorter writings of a variety of eras. In addition to a study of fiction and nonfiction, the historical impact on the literature will be discussed. Composition and oral communication assessments are included. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "CLASSICAL LITERATURE (1026)",
+      "weight": "regular",
+      "description": "This one-semester course, is an intense study of mythology and classical pieces of literature including excerpts, poetry, and shorter writings of a variety of eras. Composition and oral communication assessments are included. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "CREATIVE WRITING (1092)",
+      "weight": "regular",
+      "description": "This course is designed for students who seek to improve their writing skills and expand their approach to writing by developing their creative process. It is geared for the student who has mastered the mechanics of writing and standard grammar. Students will work with description, researchedbased analysis, narration, and poetry. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "ETYMOLOGY (1060)",
+      "weight": "regular",
+      "description": "This intensive course helps students build vocabulary through a knowledge of Greek and Latin prefixes, roots, and suffixes. It also provides connotative and denotative meanings of words in written and oral contexts. Emphasis is on the practical use of derivatives including increased writing skills and better understanding of written material. Recommended for college, this course does require rigorous memorization, intense daily homework, and weekly tests. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1",
+      "name": "LITERARY MOVEMENTS (1040)",
+      "weight": "regular",
+      "description": "Literary Movements provides a genre study of European and American literature through various movements in history. Writing and discussion activities will provide students with opportunities to explore these trends and movements and crucial concepts in developing a philosophy for life. Composition and oral communication assessments are included. ",
+      "id": "0",
+      "semesters": "1",
+      "classification": "Regular"
+    },
+    {
+      "credits": "1-2",
+      "name": "ENGLISH READING/SUPPLEMENTAL PROGRAM: DEVELOPMENTAL READING (1120)",
+      "weight": "regular",
+      "description": "Developmental Reading provides study and practice in the strategies necessary to increase reading comprehension. This course emphasizes strategies for adapting method and speed of reading to the type of material and purpose for reading. It also includes strategies for using reading to gather, retain, and analyze information. Individual diagnostic testing will be done, and an individualized program will be developed to enable each student to read and write with more confidence. ",
+      "id": "0",
+      "semesters": "1-2",
+      "classification": "Supplemental"
+    },
+    {
+      "credits": ".5-2",
+      "name": "LANGUAGE ARTS LAB 1-2, 3-4, 5-6, 7 (1010)",
+      "weight": "regular",
+      "description": "Language Arts Lab is a remediation course designed to give students who have not yet developed proficiency in the application of the reading- language arts standards. Students gain reading and writing skills necessary to perform successfully both in the school and the community. Using an integrated approach to teach the Indiana Academic Standards, the program offers individualized instruction that focuses on reading and writing in both the content and general areas. ",
+      "id": "0",
+      "semesters": ".5-2",
+      "classification": "Supplemental"
+    },
+    {
+      "credits": "2",
+      "name": "IB THEORY OF KNOWLEDGE (0560)",
+      "weight": "full",
+      "description": "with priority given to IB Diploma students) Open to non- IB students as an elective but IB Diploma candiates will have priority if the section fills. IB Diploma students will take it their junior year unless special permision is granted. Theory of Knowledge is an interdisciplinary two-course sequence that is central to the educational philosophy of the International Baccalaureate. It challenges students to reflect critically on diverse ways of knowing and areas of knowledge, and to consider the role which knowledge plays in a global society. It encourages students to become aware of themselves as thinkers, to become aware of the complexity of knowledge, and to recognize the need to act responsibly in an increasingly interconnected world. This is an interdisciplinary two-course sequence. The course challenges students to reflect on what they know academically and personally and on how they know it. Students engage in daily discussions, prepare presentations relevant to course content, read selections from a variety of disciplines, draw on their experiences in other IB classes and outside school, and write regularly. ",
+      "id": "0",
+      "semesters": "2",
+      "classification": "IB"
+    }
+  ]
+}

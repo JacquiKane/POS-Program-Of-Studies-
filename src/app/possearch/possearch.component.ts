@@ -11,6 +11,7 @@ export class POSSearchComponent implements OnInit {
   form: FormGroup;
   coursecredits = ['1', '2', '3', '4', '5'];
   weighted: boolean = true;
+  weights = ['Regular', 'Partial', 'Full'];
   values = '';
   allSelectedCourses: any;
   isWeighted: any;
