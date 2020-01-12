@@ -23,7 +23,7 @@ export class CourseService {
           "name": "ART HISTORY (4024)",
           "weight": "regular",
           "description": "Art History is an interdisciplinary course which integrates the visual arts, the natural sciences, religion, world history, and literature. Students will use critical thinking skills, develop visual perception, expand art vocabulary, and gain an appreciation for art forms of many different cultures and civilizations. This course will allow students who prefer a diverse learning experience the opportunity to engage in multi-media projects and presentations. Fee ",
-          "id": 0,
+          "id": "4024",
           "semesters": 1,
           "classification": "Regular"
         },
@@ -32,7 +32,7 @@ export class CourseService {
           "name": "ART HISTORY, AP Advanced Placement (4025)",
           "weight": "full",
           "description": "(This course cannot be taken simultaneously with Art History) AP Art History is a course based on the content established by the College Board. Art History is designed to provide the same benefits to secondary school students as those provided by an introductory college course in art history. Students will gain an understanding and knowledge of architecture, sculpture, painting, and other art forms within diverse historical and cultural contexts. Students will examine major forms of artistic expression from the past and the present from a variety of cultures. It is recommended, but not required, that students interested in taking AP Art History maintain a \u201cB\u201d average or higher in their language arts courses. Fee ",
-          "id": 0,
+          "id": "4025",
           "semesters": 2,
           "classification": "Advanced Placement"
         },
@@ -41,7 +41,7 @@ export class CourseService {
           "name": "DRAWING 1-2 (L) (4060)",
           "weight": "regular",
           "description": "Drawing 1-2 will introduce students to basic drawing techniques and media. Traditional studies in line, form, texture, composition, perspective, and design will be the focus. Subject matter includes nature studies, perspective, landscape, still life, and portraiture. The following media will be introduced in Drawing 1 graphite. The following media will be introduced in Drawing 2 pastels, opaque and transparent watercolor, acrylic paint, and mixed media. Color theory will be studied in Drawing 2. These courses are the foundation courses for the advanced visual arts classes. Fee ",
-          "id": 0,
+          "id": "4060",
           "semesters": 2,
           "classification": "Regular"
         },
@@ -68,7 +68,7 @@ export class CourseService {
           "name": "INTRODUCTION TO TWO- DIMENSIONAL ART (4000)",
           "weight": "regular",
           "description": "Students will experiment with a variety of media, techniques, and design concepts in order to determine future direction in the visual arts. Drawing, painting, printmaking, collage, mixed media, and relief sculpture will be explored. Students will be introduced to the elements and principles of design, art history, and art criticism. This course is recommended for beginning visual art students. Students will be required to purchase some art supplies in addition to the course fee. Fee ",
-          "id": 0,
+          "id": "4000",
           "semesters": 1,
           "classification": "Regular"
         },
@@ -77,7 +77,7 @@ export class CourseService {
           "name": "ADVANCED TWO-DIMENSIONAL ART (L) (4004)",
           "weight": "regular",
           "description": "Students will continue to explore a variety of media, techniques, and design concepts that build upon skills learned in Introduction to Two-Dimensional Art. Drawing, painting, printmaking, collage, mixed media, and relief sculpture will be explored at an advanced level. Students will apply elements and principles of design, art history, and art criticism concepts to their projects. Students may be required to purchase some art supplies in addition to the course fee. Fee ",
-          "id": 0,
+          "id": "4004",
           "semesters": 1,
           "classification": "Regular"
         },
@@ -86,7 +86,7 @@ export class CourseService {
           "name": "PAINTING 1-2 (L) (4064)",
           "weight": "regular",
           "description": "Painting 2- Painting 1 Painting 1-2 allows students of all abilities the opportunity to explore oil, watercolor, and acrylic paint. Students gain experience with color, brushwork, techniques, and both traditional and contemporary styles of artists. Subject matter themes include landscapes, figures, portraits, object studies and personal narratives. This course allows students to develop confidence in painting through experience and practice with various media. Painting 2 focuses primarily on oil painting and experimental techniques. Students will advance their techniques, skill and exploration of ideas in a relaxed atmosphere. Students will also learn how to stretch their own canvases. Fee ",
-          "id": 0,
+          "id": "4064",
           "semesters": 1,
           "classification": "Regular"
         },
@@ -95,7 +95,7 @@ export class CourseService {
           "name": "AP 3-D ART AND DESIGN (4052)",
           "weight": "full",
           "description": "AP Studio Art is a course for students who want to develop their portfolio for college applications. These students should be serious about developing their artwork in a concentrated area through the improvement of 3-D technique and design skills. Focus will be on developing quality, concentration, and breadth of sculptures that follows requirements of the AP Studio Art Program. Creative thought is essential, combined with the investigation of concepts, issues, and personal themes and subject matter through individual research and involved decision making. Students are challenged to become independent thinkers. Students develop ideas through their sketchbooks, explore artist connections, and present their work through critiques and exhibitions. Students must be willing to accept the committed challenge of a rigorous studio art program. Fee ",
-          "id": 0,
+          "id": "4052",
           "semesters": 2,
           "classification": "Advanced Placement"
         },
@@ -104,7 +104,7 @@ export class CourseService {
           "name": "AP DRAWING (4048)",
           "weight": "full",
           "description": "teacher approval. Studio Art-AP is a course for students who are serious about developing their portfolio of drawings in a concentrated area through the improvement of technique and design skills. Focus will be on the quality, concentration, and breadth of work produced. Creative thought is essential, combined with the investigation of concepts, issues, and personal themes and subject matter through individual research and involved decision making. Students are challenged to become independent thinkers who will contribute inventively and critically to their culture through the making of art. Students will develop ideas through their sketchbook, explore artist connections, and present their work through critiques and exhibitions. Students must be willing to accept the committed challenge of a rigorous studio art program, and formal evaluations will be made according to national standards of performance through an examination of completed portfolio work. Along with the chance to receive college credit and/ or advanced placement for college, Studio Art-AP offers the advanced art student a rewarding opportunity to develop artistic skills while building and preparing a portfolio of art for college or work. Fee ",
-          "id": 0,
+          "id": "4048",
           "semesters": 2,
           "classification": "Advanced Placement"
         },
@@ -113,7 +113,7 @@ export class CourseService {
           "name": "AP 2-D ART AND DESIGN (4050)",
           "weight": "full",
           "description": "Classifications teacher approval) Studio Art-AP is a course for students who are serious about developing their portfolio of designs in a concentrated area through the improvement of technique and design skills. Focus will be on the quality, concentration, and breadth of work produced. Creative thought is essential, combined with the investigation of concepts, issues, and personal themes and subject matter through individual research and involved decision making. Students are challenged to become independent thinkers who will contribute inventively and critically to their culture through the making of art. Students will develop ideas through their sketchbook, explore artist connections, and present their work through critiques and exhibitions. Students must be willing to accept the committed challenge of a rigorous studio art program, and formal evaluations will be made according to national standards of performance through an examination of completed portfolio work. Along with the chance to receive college credit and/ or advanced placement for college, Studio Art-AP offers the advanced art student a rewarding opportunity to develop artistic skills while building and preparing a portfolio of art for college or work. Fee ",
-          "id": 0,
+          "id": "4050",
           "semesters": 2,
           "classification": ""
         },
@@ -122,7 +122,7 @@ export class CourseService {
           "name": "CERAMICS 1 (4040)",
           "weight": "regular",
           "description": "In Ceramics 1, emphasis is placed strictly on hand building techniques and the elements and principles of design. Coil, slab, and drape molding are the techniques that will be explored. Glaze application is introduced along with a brief introduction to stains. Fee ",
-          "id": 0,
+          "id": "4040",
           "semesters": 1,
           "classification": "Regular"
         },
@@ -131,7 +131,7 @@ export class CourseService {
           "name": "CERAMICS 2 (L) (4040)",
           "weight": "regular",
           "description": "Ceramics 2 is a continued study in hand building techniques and design. Students will be introduced to the potter\u2019s wheel and the techniques needed for throwing. Fee ",
-          "id": 0,
+          "id": "4040",
           "semesters": 1,
           "classification": "Regular"
         },
@@ -140,7 +140,7 @@ export class CourseService {
           "name": "CERAMICS 3 (L) (Hand building) (4040)",
           "weight": "regular",
           "description": "Ceramics 3 is considered an advanced hand building course and is designed for the serious ceramics student. The students will have an opportunity to work with different clays and decorative methods. There may be opportunities to work on the wheel, but not in-depth. Working with design principles is also a large part of this course. Fee ",
-          "id": 0,
+          "id": "4040",
           "semesters": 1,
           "classification": "Regular"
         },
@@ -352,7 +352,7 @@ export class CourseService {
           "name": "STUDENT MEDIA : INTERMEDIATE YEARBOOK : PINNACLE STAFF : 3-4(1086)",
           "weight": "regular",
           "description": "approval; application required (subsequent years on staff) Note diplomas. It also fulfills the Fine Arts requirement for the Core 40 with Academic Honors. Students enrolled in Student Media/Yearbook/Pinnacle Staff serve as reporters, photographers and editors to plan, publish, market and produce the award-winning Pinnacle yearbook. This course provides study and practice in all aspects of the publishing process, and will emphasize the value of journalistic skills such as interviewing, information gathering, writing, editing, taking photos and designing. After-school production time is occasionally required as a part of this class. This course can be repeated for credit every semester of a student\u2019s high school career, pending prior completion of one of the approved prerequisites (Trends in Media or Yearbook 1-2, Visual Journalism I and/or II) and successful completion of an application process in the spring. ",
-          "id": 0,
+          "id": "1086",
           "semesters": 2,
           "classification": "Regular"
         },
@@ -416,56 +416,239 @@ export class CourseService {
       "name": "Business", "chair": "Debra Lesjak", "courses": "24", "id": "2",
       "allcourses": [
         {
-          "id": "4524", "name": "Accounting", "semesters": "2", "credits": "2",
-          "description": "Accounting introduces the language of business using Generally Accepted Accounting Principles (GAAP) and procedures for proprietorships and partnerships using double-entry accounting. Emphasis is placed on accounting principles as they relate to both manual and automated financial systems. This course involves understanding, analyzing, and recording business transactions and preparing, analyzing, and interpreting financial reports as a basis for decision-making. Accounting 1 begins with bookkeeping concepts and then bridges those skills into concepts and principles of accounting. Students are exposed to the accounting cycle and banking practices for a service oriented business. In Accounting 1-2, students will study accounting and payroll systems and subsystems utilizing journals, ledgers, and financial statements for a merchandising business. This class is year-long. "
+          "credits": "2",
+          "name": "ACCOUNTING I-1, I-2 (4524)",
+          "weight": "regular",
+          "description": "Accounting introduces the language of business using Generally Accepted Accounting Principles (GAAP) and procedures for proprietorships and partnerships using double-entry accounting. Emphasis is placed on accounting principles as they relate to both manual and automated financial systems. This course involves understanding, analyzing, and recording business transactions and preparing, analyzing, and interpreting financial reports as a basis for decision-making. Accounting 1 begins with bookkeeping concepts and then bridges those skills into concepts and principles of accounting. Students are exposed to the accounting cycle and banking practices for a service oriented business. In Accounting 1-2, students will study accounting and payroll systems and subsystems utilizing journals, ledgers, and financial statements for a merchandising business. This class is year-long. ",
+          "id": "4524",
+          "semesters": "2",
+          "classification": "Regular"
         },
         {
-          "id": "4522", "name": "Advanced Accounting", "semesters": "2", "credits": "3",
-          "description": "Advanced Accounting expands on the Generally Accepted Accounting Principles (GAAP) and procedures for proprietorships and partnerships using double-entry accounting covered in Introduction to Accounting. Emphasis is placed on accounting principles as they relate to both manual and automated financial systems. This course involves understanding, analyzing, and recording business transactions and preparing, analyzing, and interpreting financial reports as a basis for decision-making. Approximate student fee:  $9.68 "
+          "credits": "2",
+          "name": "ADVANCED ACCOUNTING II-1, II-2 (Previously Financial Services) (4522)",
+          "weight": "regular",
+          "description": "Advanced Accounting expands on the Generally Accepted Accounting Principles (GAAP) and procedures for proprietorships and partnerships using double-entry accounting covered in Introduction to Accounting. Emphasis is placed on accounting principles as they relate to both manual and automated financial systems. This course involves understanding, analyzing, and recording business transactions and preparing, analyzing, and interpreting financial reports as a basis for decision-making. Approximate student fee ",
+          "id": "0",
+          "semesters": "4522",
+          "classification": "Regular"
         },
         {
-          "id": "4560", "name": "Business Law and Ethics", "semesters": "2", "credits": "3",
-          "description": "It is recommended (but not required) that students take AP Computer Science Principles.  Computer Science A assumes that the student has had prior programming experience.   Students solve programming problems by planning, entering, and debugging solutions using the Java language. Topics covered include: syntax, loops, methods, control structures, repetition tools, and simple data structures including arrays. The course follows the syllabus of the Advanced PlacementThis course follows the College Board AP Computer Science curriculum " +
-            "*Students will have the opportunity to earn dual credit through Ivy Tech Community College as long as they meet the Ivy Tech requirements.Business Law and Ethics provides an overview of the legal system in the business setting. Topics covered include: basics of the judicial system, contract, personal, employment and property law. Application of legal principles and ethical decision-making techniques are presented through problem-solving methods and situation analyses. Students incorporate law-related current events and pertinent legal cases in their work. Real-world applications of the law are also emphasized.Three (3) Ivy Tech State College dual credits are available to qualified students. This class is recommended as a year-long class "
-        },
-        { "id": "4570", "name": "AP Computer Science", "semesters": "2", "credits": "4", "description": "It is recommended (but not required) that students take AP Computer Science Principles.  Computer Science A assumes that the student has had prior programming experience.   Students solve programming problems by planning, entering, and debugging solutions using the Java language. Topics covered include: syntax, loops, methods, control structures, repetition tools, and simple data structures including arrays. The course follows the syllabus of the Advanced Placement (AP) Computer Science, a curriculum as prescribed by the College Board guidelines.  Students may elect to take the AP Computer Science A Exam administered in May at their own expense. " },
-        {
-          "id": "4580", "name": "Business Management, Higher level, IB", "semesters": "4", "credits": "5", "description": "This course follows the College Board AP Computer Science curriculum " +
-            "The emphasis is on problem solving and algorithmic development witht Java. "
-        },
-        {
-          "id": "4582", "name": "Business Management, Standard level, IB", "semesters": "4", "credits": "5", "description": "This course follows the College Board AP Computer Science curriculum " +
-            "The emphasis is on problem solving and algorithmic development witht Java. "
+          "credits": "2",
+          "name": "BUSINESS LAW AND ETHICS I-1, I-2 (4560)",
+          "weight": "regular",
+          "description": "**Students will have the opportunity to earn dual credit through Ivy Tech Community College as long as they meet the Ivy Tech requirements. Business Law and Ethics provides an overview of the legal system in the business setting. Topics covered include of the judicial system, contract, personal, employment and property law. Application of legal principles and ethical decision-making techniques are presented through problemsolving methods and situation analyses. Students incorporate law-related current events and pertinent legal cases in their work. Real-world applications of the law are also emphasized. Three (3) Ivy Tech State College dual credits are available to qualified students. This class is recommended as a year-long class. ",
+          "id": "4560",
+          "semesters": "2",
+          "classification": "Regular"
         },
         {
-          "id": "5230", "name": "Tech Support 1,2", "semesters": "2", "credits": "4", "description": "This course follows the College Board AP Computer Science curriculum " +
-            "The emphasis is on problem solving and algorithmic development witht Java. "
+          "credits": "2",
+          "name": "BUSINESS MANAGEMENT HIGHER LEVEL, INTERNATIONAL BACCALAUREATE (4580)",
+          "weight": "full",
+          "description": "INTERNATIONAL BACCALAUREATE Business Management Higher Level, International Baccalaureate explores how and why individuals form organizations, organizational problems and life cycles, and the role of individuals and groups within organizations. It is based on the curriculum published by the International Baccalaureate Organization. Students gain a broad understanding of the variety of organizations that exist, including profit and non-profit, and will examine and apply the principles of organizations and the techniques practiced in organizational decision making. Students also develop an understanding of the interdependency of organizations and the effect on problem solving. Approximate student fee $17.90. Students are encouraged to take the IB HL exam. Students are required to participate in DECA. ",
+          "id": "4580",
+          "semesters": "2",
+          "classification": "International Baccalaureate"
         },
         {
-          "id": "4560", "name": "Business Law & Ethics 1,2", "semesters": "2", "credits": "3", "description": "This course follows the College Board AP Computer Science curriculum " +
-            "The emphasis is on problem solving and algorithmic development witht Java. "
+          "credits": "2",
+          "name": "BUSINESS MANAGEMENT STANDARD LEVEL, INTERNATIONAL BACCALAUREATE (4582)",
+          "weight": "full",
+          "description": "Business Management Standard Level, International Baccalaureate examines the role of individuals and groups in forming organizations and their roles within organizations. Students gain a broad understanding of the variety of organizations that exist, including profit and nonprofit, and the problems and life cycles of these organizations. This course develops an understanding of the interdependency of organizations, the effect of problem solving, and the application of organizational principles and techniques widely practiced in the process of decision making. Approximate student fee Students are encourage to take the IB SL exam. Students are required to participate in DECA. ",
+          "id": "4582",
+          "semesters": "2",
+          "classification": "International Baccalaureate"
         },
         {
-          "id": "4524", "name": "Accounting-1 1 & 2", "semesters": "2", "credits": "4", "description": "This course follows the College Board AP Computer Science curriculum " +
-            "The emphasis is on problem solving and algorithmic development witht Java. "
+          "credits": "1",
+          "name": "INTRODUCTION TO BUSINESS 1 (4518)",
+          "weight": "regular",
+          "description": "Introduction to Business 1 introduces students to the world of business and marketing. The course develops business vocabulary and provides an overview of business and the role that business plays in economic, social, and political environments. ",
+          "id": "4518",
+          "semesters": "1",
+          "classification": "Regular"
         },
         {
-          "id": "4522", "name": "Accounting-2 1 & 2", "semesters": "2", "credits": "4", "description": "This course follows the College Board AP Computer Science curriculum " +
-            "The emphasis is on problem solving and algorithmic development witht Java. "
+          "credits": "1",
+          "name": "INTRODUCTION TO BUSINESS 2 (4518)",
+          "weight": "regular",
+          "description": "Introduction to Business 2 introduces the topic of entrepreneurship. Students explore the concepts, functions and skills required for meeting the challenges of operating a business on local, national and international scales. ",
+          "id": "4518",
+          "semesters": "1",
+          "classification": "Regular"
         },
         {
-          "id": "4540", "name": "Personal Finance", "semesters": "1", "credits": "2", "description": "This course follows the College Board AP Computer Science curriculum " +
-            "The emphasis is on problem solving and algorithmic development witht Java. "
+          "credits": "1",
+          "name": "GLOBAL ECONOMICS (4558)",
+          "weight": "regular",
+          "description": "Global Economics is a business course that provides students with an understanding of their role as consumers and producers in domestic and global economies. This course enables students to understand how the economic system operates while comprehending their role in that system. Students deal with public policy, international economics, microeconomics, and macroeconomics in comparing economic systems and using selected economic measures. ",
+          "id": "4558",
+          "semesters": "1",
+          "classification": "Regular"
         },
         {
-          "id": "113", "name": "AP Comp Sci Principles", "semesters": "2", "credits": "3", "description": "This course follows the College Board AP Computer Science curriculum " +
-            "The emphasis is on problem solving and algorithmic development witht Java. "
+          "credits": "1",
+          "name": "PERSONAL FINANCIAL RESPONSIBILITY (4540)",
+          "weight": "regular",
+          "description": "Personal Financial Responsibility addresses the identification and management of personal financial resources to meet the financial needs and wants of individuals and families, considering a broad range of economic, social, cultural, technological, environmental, and maintenance factors. This course helps students build skills in financial responsibility and decision making; analyze personal standards, needs, wants, and goals; identify sources of income, saving and investing; understand banking, budgeting, record-keeping and managing risk, insurance and credit card debt. Approximate student fee $3.13 ",
+          "id": "4540",
+          "semesters": "1",
+          "classification": "Regular"
         },
         {
-          "id": "5236", "name": "Games/Simulation", "semesters": "1", "credits": "2", "description": "This course follows the College Board AP Computer Science curriculum " +
-            "The emphasis is on problem solving and algorithmic development witht Java. "
+          "credits": "",
+          "name": "PRINCIPLES OF BUSINESS MANAGEMENT (4562)",
+          "weight": "regular",
+          "description": "business courses. Credit 1 RW, Dual Credit **Students will have the opportunity to earn dual credit through Ivy Tech Community College as long as they meet the Ivy Tech requirements. Principles of Business Management focuses on the roles and responsibilities of managers as well as opportunities and challenges of ethically managing a business in the free enterprise system. Students will attain an understanding of management, team building, leadership, problem solving steps and processes that contribute to the achievement of organizational goals. The management of human and financial resources is emphasized. Three (3) Ivy Tech State College dual credits will be earned by students who meet the Ivy Tech requirements. ",
+          "id": "4562",
+          "semesters": "",
+          "classification": "Regular"
+        },
+        {
+          "credits": "1",
+          "name": "COMPUTER ILLUSTRATION and GRAPHICS (4516)",
+          "weight": "regular",
+          "description": "Computer Illustration and Graphics introduces students to the computer\u2019s use in visual communication. The focus of the course is on basic computer terminology and use, mastering fundamental skills, and developing efficient working styles. These skills are then developed by creating work with imaging, drawing, interactive, and page layout software. The course includes organized learning experiences that incorporate a variety of visual art techniques as they relate to the design and execution of layouts and illustrations for advertising, displays, promotional materials, and instructional manuals. Instruction also covers advertising theory and preparation of copy, lettering, posters, produce vector illustrations, graphics and logos, and artwork in addition to incorporation of photographic images. Communication skills will be emphasized through the study of effective methods used to design products that impart information and ideas. ",
+          "id": "4516",
+          "semesters": "1",
+          "classification": "Regular"
+        },
+        {
+          "credits": "1",
+          "name": "COMPUTER SCIENCE II: SIMULATION AND GAME DEVELOPMENT (5236)",
+          "weight": "regular",
+          "description": "This course provides the intermediate level programmer with skills in computer programming and games development or simulation. Starting with an introduction to the Python programming language and IDE and continuing with the math principles needed to drive the development of an attractive and interactive computer program, the student will build skills in computer programming, user interface design, games development, and technical writing. Games development and simulation involves application of linear algebra, geometry, trigonometry and calculus \u2013 as objects are made to move across a screen, and respond to keystrokes or numerical quantities. Boolean algebra/logic is also applied through computer programming. Technical writing skills would also be emphasized, as the student will document the code (comments) and provide an algorithm for the design of the game/simulation. ",
+          "id": "5236",
+          "semesters": "1",
+          "classification": "Regular"
+        },
+        {
+          "credits": "2",
+          "name": "COMPUTER SCIENCE PRINCIPLES, AP",
+          "weight": "full",
+          "description": "Computer Science Principles introduces students to the central ideas of computer science, instilling the ideas and practices of computational thinking and inviting students to understand how computing changes the world. The rigorous course promotes deep learning of computation content, develops computational thinking skills, and engages students in the creative aspects of the field. Students may elect to take the AP Computer Science Principles Exam administered in May at their own expense. ",
+          "id": "0",
+          "semesters": "2",
+          "classification": "Advanced Placement"
+        },
+        {
+          "credits": "2",
+          "name": "COMPUTER SCIENCE A 1-2, AP (4570)",
+          "weight": "full",
+          "description": "Computer Science and teacher recommendation Recommended It is recommended (but not required) that students take AP Computer Science Principles. Computer Science A assumes that the student has had prior programming experience. Students solve programming problems by planning, entering, and debugging solutions using the Java language. Topics covered include repetition tools, and simple data structures including arrays. The course follows the syllabus of the Advanced Placement (AP) Computer Science, a curriculum as prescribed by the College Board guidelines. Students may elect to take the AP Computer Science A Exam administered in May at their own expense. ",
+          "id": "4570",
+          "semesters": "2",
+          "classification": "Advanced Placement"
+        },
+        {
+          "credits": "2",
+          "name": "INFORMATION TECHNOLOGY SUPPORT 1 & 2 (Formerly COMPUTER TECH SUPPORT) (5230)",
+          "weight": "regular",
+          "description": "**Students will have the opportunity to earn dual credit through Ivy Tech Community College as long as they meet the Ivy Tech requirements. Information Technology Support allows students to explore how computers work. Students learn the functionality of hardware and software components as well as suggested best practices in maintenance and safety issues. Through hands on activities and labs, students learn how to assemble and configure a computer, install operating systems and software, and troubleshoot hardware and software problems. Three (3) Ivy Tech State College dual credits are available to qualified students. Approximate student fee ",
+          "id": "5230",
+          "semesters": "2",
+          "classification": "Regular"
+        },
+        {
+          "credits": "1",
+          "name": "DIGITAL APPLICATIONS and RESPONSIBILITY 1 (4528)",
+          "weight": "regular",
+          "description": "Digital Applications and Responsibility students use Microsoft Office 2016 to create documents applicable to home and school. These applications will apply to academic and workplace tasks. DAR helps students develop efficient and practical computer skills beyond the basics which they may have learned at home or middle school. Students also learn appropriate and effective use of the Internet. This course meets the technology requirement for graduation. Approximate student fee ",
+          "id": "4528",
+          "semesters": "1",
+          "classification": "Regular"
+        },
+        {
+          "credits": "1",
+          "name": "DIGITAL APPLICATIONS and RESPONSIBILITY 2 (4528)",
+          "weight": "regular",
+          "description": "**Students will have the opportunity to earn dual credit through Ivy Tech Community College as long as they meet the Ivy Tech requirements. In Digital Applications and Responsibility 2-students learn advanced Microsoft Office 2016 (Word, Excel, PowerPoint and Access) skills to strengthen their computer and problemsolving skills. This course, along with the successful completion of DAR 1, will allow qualified students to apply for three (3) Ivy Tech credits. Students will be given the opportunity to seek an industryrecognized digital literacy certification (MOS Certification) for Word 2016, Excel 2016 and , Access 2016 or and PowerPoint 2016. Approximate student fee ",
+          "id": "4528",
+          "semesters": "1",
+          "classification": "Regular"
+        },
+        {
+          "credits": "2",
+          "name": "INDEPENDENT STUDY IN COMPUTER SCIENCE 1-2 (4801)",
+          "weight": "regular",
+          "description": "required This course is provided for students who have already completed the AP Computer Science class and are seriously interested in developing their programming skills. Students will work independently, under the supervision of the instructor, covering advanced programming concepts. Topics include structures (including trees, linked lists, sets, and maps), algorithms, and algorithmic analysis. ",
+          "id": "4801",
+          "semesters": "2",
+          "classification": "Regular"
+        },
+        {
+          "credits": "2",
+          "name": "INDEPENDENT STUDY IN INFORMATION TECHNOLOGY (5230)",
+          "weight": "regular",
+          "description": "Required instructor approval required Instructor Approval Required This course is provided for students who have already completed the I.T. Essentials OR Computer Tech Support course and are interested in pursuing a career in computer repair or computer networking. Students will assist the instructor in helping Computer Tech Support student\u2019s complete handson labs and will also assist in training students to repair and repurpose computers for Net Literacy. Students will also work with the instructor to improve classroom/lab procedures and setups. Approximate student fee ",
+          "id": "0",
+          "semesters": "5230",
+          "classification": "Regular"
+        },
+        {
+          "credits": "1",
+          "name": "INTRODUCTION TO COMPUTER SCIENCE (4803)",
+          "weight": "regular",
+          "description": "Introduction to Computer Science allows students to explore the world of Computer Science. Students will gain a broad, but introductory, understanding of the areas composing Computer Science. Additionally, there will be a focus on the areas of computer programming, gaming/mobile development, and artificial intelligence/robotics. This is a 1 semester class. ",
+          "id": "4803",
+          "semesters": "1",
+          "classification": "Regular"
+        },
+        {
+          "credits": "1",
+          "name": "WEB DESIGN (4574)",
+          "weight": "regular",
+          "description": "This course is designed to give students a background in beginning web page design. Students will understand the purpose of the Internet, the various services available and methods of accessing the Internet. Design features, functions and considerations in designing web pages will be introduced. By utilizing various web browsers and search engines, students will evaluate web pages for content and design. Various web page-authoring software will be used as well as beginning HTML to create the web pages. This course would give students an advantage in the business world or college in designing web pages. ",
+          "id": "4574",
+          "semesters": "1",
+          "classification": "Regular"
+        },
+        {
+          "credits": "2",
+          "name": "MERCHANDISING: FASHION 1 & 2 (5962)",
+          "weight": "regular",
+          "description": "Merchandising providing instruction as it relates to the marketing of apparel and accessories of all kinds. Units of study include the fashion market and designers, market segmentation and consumer demographics, salesmanship, promotion, and visual merchandising. Competitive activities are provided for students to exercise skills and knowledge gained in the program through the co-curricular organization DECA. Students are expected to participate in DECA. Approximate student fee ",
+          "id": "5962",
+          "semesters": "2",
+          "classification": "Career Technical"
+        },
+        {
+          "credits": "2",
+          "name": "PRINCIPLES OF MARKETING 1 & 2 (5914)",
+          "weight": "regular",
+          "description": "Principles of Marketing provides a basic introduction to the scope and importance of marketing in the global economy. Emphasis is placed on oral and written communications, mathematical applications, problem solving, and critical thinking skills as they relate to advertising/promotion/selling, distribution, financing, marketing- information management, pricing, and product/service management. Competitive activities are provided for students to exercise skills and knowledge gained in the program through the co-curricular organization DECA. Students are expected to participate in DECA. Approximate student fee ",
+          "id": "5914",
+          "semesters": "2",
+          "classification": "Career Technical"
+        },
+        {
+          "credits": "2",
+          "name": "STRATEGIC MARKETING I-1, I-2 (5918)",
+          "weight": "regular",
+          "description": "Strategic Marketing builds upon the foundations of marketing and applies the functions of marketing at an advanced level. Students will study the basic principles of consumer behavior and examine the application of theories from psychology, social psychology and economics. The relationship between consumer behavior and marketing activities are reviewed. The first semester concentrates on researching and developing a business plan for competition through DECA and Hamilton County Business Alliance. Second semester students will study risk management, marketing research, and human relations. Practical experience in store organization is gained through the actual operation of school stores. Students are expected to participate in DECA. Approximate student fee ",
+          "id": "5918",
+          "semesters": "2",
+          "classification": "Career Technical"
+        },
+        {
+          "credits": "6",
+          "name": "WORK BASED LEARNING, BUSINESS AND MARKETING: BUSINESS COOPERATIVE EXPERIENCES I-1, I-2 (5260)",
+          "weight": "regular",
+          "description": "Business Cooperative Experiences builds upon the foundations of marketing and applies the functions of marketing at an advanced level. Students will study the basic principles of consumer behavior and examine the application of theories from psychology, social psychology and economics. The relationship between consumer behavior and marketing activities are reviewed. Release time is scheduled for the work experience every day or every other day. A minimum of 15 hours per week of work is expected. Practical experience in store organization is gained through the actual operation of school stores. Students are expected to participate in DECA. Approximate student fee ",
+          "id": "5260",
+          "semesters": "6",
+          "classification": "Career Technical"
+        },
+        {
+          "credits": "1-4",
+          "name": "CTSO (Career and Technical Student Organization) LEADERSHIP DEVELOPMENT IN ACTION\u2014MANAGER 5237",
+          "weight": "full",
+          "description": "Management 1-2, application, interview and instructor approval required. Leadership Development in Action is a project-based course in which students integrate higher order thinking, communication, leadership, and management processes to conduct DECA leadership projects at the local, state, or national level. Each student will create a vision statement, establish standards and goals, design and implement an action plan and timeline, reflect on accomplishments, and evaluate results. Achievement will be documented through a required student portfolio. Students are required to 1) Participate in DECA and 2) act as DECA or Carmel Café Management in assigned role. ",
+          "id": "5237",
+          "semesters": "1-4",
+          "classification": "Regular"
         }
-
       ]
     },
     { "name": "Engineering", "chair": "John Coghlan", "courses": "34", "id": "3", "allcourses": [
@@ -1014,48 +1197,195 @@ export class CourseService {
       }
     ] },
     {"name":"Math","chair":"Jacinda Sohalski", "courses":"34", "id": "7", "allcourses":[
-      {"id": "2520", "name": "ALGEBRA I 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", 
-      "classification": "Regular", "prereq": " Algebra I-1 is the prerequisite to Algebra I-2",
-      "description": "This course provides a formal development of the algebraic skills and concepts necessary for students who will take a geometry course and other advanced college-preparatory courses. The instructional program will provide for the use of algebraic skills in a wide range of problem- solving situations. Topics include: real numbers and expressions,functions, linear equations, inequalities, systems ofequations and inequalities, quadratic and exponentialequations and functions, and data analysis and statistics. Nostudent will be allowed to take Algebra I-2 before earning credit for Algebra I-1.Students taking this course are required to have the scientific calculator, TI-30XIIS."},
-      {"id": "2522", "name": "ALGEBRA II 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": " Algebra I 2 required and Geometry 2 recommended",
-      "description": "Algebra II is a course designed to reinforce skills learned in Algebra I as well as introducing topics necessary for higher-level math courses. The topics given to high priority in Algebra II are solving of all type of equations and inequalities, graphing functions, solving application problems, and an introduction to statistics and probability. Technology is integrated where appropriate. Students taking this course will be required to have a non-CAS scientific calculator. The recommended scientific calculator for the course: TI-30XIIS. Casio models will not be allowed. TInspires will be used in class, but students are not requiredto have their own."
+      {
+        "credits": "2",
+        "name": "ALGEBRA I 1-2 (2520)",
+        "weight": "regular",
+        "description": "This course provides a formal development of the algebraic skills and concepts necessary for students who will take a geometry course and other advanced college-preparatory courses. The instructional program will provide for the use of algebraic skills in a wide range of problem- solving situations. Topics include functions, linear equations, inequalities, systems of equations and inequalities, quadratic and exponential equations and functions, and data analysis and statistics. No student will be allowed to take Algebra I-2 before earning credit for Algebra I-1. Students taking this course are required to have the scientific calculator, TI-30XIIS. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Regular"
       },
-      {"id": "2522", "name": "ALGEBRA II 1-2, Honors", "semesters": "2", "credits": "2 PW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Honors", "prereq": "Geometry 2, Honors",
-	"description": "This course is offered to students recommended as most able in mathematics because of its rigor and pace. The content of the course includes all topics in Algebra II, presented from a more abstract and theoretical standpoint. It is recommended that students not only have the Honors Geometry background, but also a strong showing in Honors/Advanced Algebra I. Students who take this course must have good number sense and be able to think critically. Topics include linear programming, statistics, matrices and their applications and an in-depth analysis of a wide variety of functions. Students taking this course will be required to have a scientific calculator, such as the TI-30XIIS, the TI-36X Pro cannot be used on assessments."
-},
-{"id": "2532", "name": "GEOMETRY 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": "Algebra I 2",
-	"description": "The course presents a unified approach to plane and solid geometry. Emphasis is placed on the application of properties, postulates, and theorems of geometric figures in two and three dimensions. Topics include congruence, similarity, parallel lines, polygons, circles, volume and constructions. Students taking this course will be required to have a scientific calculator, such as the TI-30XIIS. There is an approximate fee for this course of $5 for the geometry toolkit."
-},
-{"id": "2532", "name": "GEOMETRY 1-2, Honors", "semesters": "2", "credits": "2 PW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Honors", "prereq": "Algebra I-2",
-	"description": "This course is designed to introduce the student to the vocabulary and concepts of plane geometry and to apply those concepts using the processes of logical reasoning to attain a better understanding of the world around them. The development of theorems will necessitate a working knowledge of measurement, congruence, similarity, parallelism, perpendicularity, sequences, perimeter, area, volume, trigonometry, and application of algebra concepts of geometry. The scope of Honors Geometry extends beyond the study of geometry with more emphasis on higher order thinking, identifying patterns as well as additional trigonometry and triangle applications. This course also has a strong emphasis on constructions and coordinate geometry. Students taking this course will be required to have a scientific calculator. There is an approximate fee for this course of $5 for the geometry tool kit."
-},
-{"id": "2570", "name": "STATISTICS 1-2, AP", "semesters": "2", "credits": "2 FW", "AP": "Yes", "DC": "No", "IB": "No", "QR": "Yes", "classification": "Advanced Placement", "prereq": "Algebra II-2",
-	"description": "The course is a study of statistics for the motivated student. Its purpose is to introduce students to methods for collecting, analyzing, and drawing conclusions from data. The curriculum is aligned to the College Board guidelines and will discuss topics such as one and two-variable displays and descriptive statistics, linear and non- linear regression, sample surveys, experimental design, probability, sampling distribution and inference procedures. Students completing this course will be able to take the AP Statistics exam in May, part of which may be paid by the state when the student is currently enrolled in the course. Students taking this course will be required to have a TInspire graphing calculator. It does not matter if it is the CAS or CX version."
-},
-{"id": "2530", "name": "FINITE MATHEMATICS 1-2, ACP 118", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "Yes", "IB": "No", "QR": "No", "classification": "Dual Credit", "prereq": "Pre-Calc/Trig 2 Intermediate or Pre-Calc/Trig 2",
-"description": "Finite Mathematics is designed for students who will pursue careers that are not necessarily in the science field. The problem solving emphasis of the course is designed to apply mathematical concepts to business, economics, social, life and physical sciences. Topics include probability, linear programming and elementary statistics. As part of the Advance College Project students who enroll in Finite Math may apply to earn three (3) hours of college credit through Indiana University, Bloomington, Mathematics (M118). Students would be charged reduced university tuition per credit hour and credits are transferable to several colleges and universities in the country. Each student who chooses to participate in the ACP program should inform his/her counselor at the time of scheduling. Fees will be due when billed by Indiana University. Once a student application is accepted by the ACP office of IU, withdrawal from the M118 IU course is available in October.No calculator is required for this course"
-},
-{"id": "2550", "name": "QUANTITATIVE REASONSING 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": "Algebra II 1-2",
-	"description": "Quantitative Reasoning is a one-year course focused on the study of numeracy, ratio and proportional reasoning, modeling, probabilistic reasoning and statistics. Students will build knowledge with basic mathematical/analytical concepts and operations. The class will focus heavily onproblem solving with real life applications. It is designed to provide students with a coherent, useful and logical experience in which they can make use of their ability to analyze problem situations. This higher level math coursealigns with college-level quantitative reasoning courses and is recommended for students who are not planning to pursue a degree in a STEM related field or do not anticipate a need for advanced mathematics in their future studies. Students taking this course will be required to have a scientific calculator."
-},
-{"id": "2544", "name": "BRIEF SURVEY OF CALCULUS 1-2, ACP M119", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "Yes", "IB": "No", "QR": "No", "classification": "Duel Credit", "prereq": "Pre-Calculus/Trig 2",
-	"description": "Brief Survey of Calculus offers the opportunity to learn Calculus with emphasis on applications rather than theory. Recommended for students who have maintained a “B” average in previous mathematics courses. Course content includes functions, limits, derivatives, applications of the derivative and applicationsof integration. As part of the Advance College Project, students who enroll in Calculus Survey may apply to earn three (3) hours of college credit through Indiana University, Bloomington, Mathematics (M119). Students are charged reduced university tuition per credit hour and credits are transferable to several colleges and universities in the country. Each student who chooses to take this course for college credit should inform his/her counselor at the time of scheduling. Fees are due when billed by Indiana University. Once an application is accepted by the ACP office of IU, withdrawal is available in October.Students taking this course will need a TInspire CX or TI-84 plus calculator."
-},
-{"id": "2562", "name": "CALCULUS AB 1-2, AP/ACP M211", "semesters": "2", "credits": "2 FW", "AP": "Yes", "DC": "???", "IB": "No", "QR": "Yes", "classification": "Advanced Placement", "prereq": "Pre-Calculus /Trig 2 Honors or Pre-Calculus/Trig 2",
-	"description": "AP Calculus AB introduces differential and integral calculus, as in a first semester college calculus course. Recommended for students with a high B average in prior math courses. Curriculum is aligned to College Board guidelines, prepares the student for the Advanced Placement Calculus AB exam. Students who enroll in AP Calculus AB may apply to earn four (4) hours of college credit through Indiana University’s mathematics department(Course M211). Students are charged reduced university tuition per credit hour and credits are transferable to several universities in the country. Students who take this course for college credit should inform the counselor at the time of scheduling. Fees are due within the first two weeks of the first semester. After acceptance by the ACP office of IU, withdrawal from the M211 IU course is available in October. Students are required to complete a summer review packet. Students need a TI-nspireCX, TI-nspire CX CAS or TI 84 Plus graphing calculator."
-},
-{"id": "2572", "name": "CALCULUS BC 1-2, AP/ACP M211-212", "semesters": "2", "credits": "2 FW", "AP": "Yes", "DC": "???", "IB": "No", "QR": "Yes", "classification": "Advanced Placement", "prereq": "Pre-Calculus/Trig 2 Honors",
-	"description": "AP Calculus BC is a college-level course designed for highly motivated math students, competentin analytical and technical skills. Curriculum is aligned to College Board guidelines and covers the standard first two semesters of college calculus. Students will be prepared for the AP Calculus BC exam and may earn two semesters of college credit. Students are encouraged to take the AP exam. Students who enroll in AP Calculus BC may apply to earn four (4) hours of college credit each semester. Students are enrolled in courses M211 and M212, and are charged reduceduniversity tuition per credit hour. Students who participate in the ACP program should inform the counselor at the time of scheduling. Fees are due when billed by Indiana University. Once a student application is accepted by the ACP Office of IU, withdrawal from the course is available in October. Students need a TInspire CX CAS graphing calculator."
-},
-{"id": "2544", "name": "MULTIVARIABLE CALCULUS/ACP M311", "semesters": "2", "credits": "2 FW", "AP": "No", "DC": "Yes", "IB": "No", "QR": "No", "classification": "Duel Credit", "prereq": "AP Calculus BC 1-2",
-"description": "Intended for students with a solid background in mathematics, competent in a range of analytical and technical skills. Students will be expecting to include mathematics as a major component of their university studies, as a subject in its own right, or within courses such as physics, engineering, and technology. Students enjoy the challenges of mathematics and problem solving. Includes topics from the third semester of college Calculus. Students review topics from Calculus BC and previous math courses to meet the requirements of the Mathematics HL in the International Baccalaureate program. Time can be given to each topic to enhance students understanding through use of technology and explorations. Students need a TInspire CX CAS graphing calculator."
-},
-{"id": "2564 and 2566", "name": "PRE-CALCULUS/ TRIGONOMETRY 1-2, INTERMEDIATE", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": "Algebra II 2",
-"description": "Pre-Calculus Intermediate is recommended for those students who have maintained a “C” average or above in prior math courses. First semester topics include the theory of equations, exponential and logarithmic functions,polynomial and rational functions, and sequences and series. Second semester provides for the development of trigonometric functions, their properties and graphs, inverse trig functions, trig equations and identities, Law of Sines and Law of Cosines, as well as applications of the trig functions and conics. Prepares students for AP Statistics, Finite Mathematics, Quantitative Reasoning or IB Math. This course does not fulfill the prerequisite for Calculus Survey/M119, AP Calculus AB 1-2 or AP Calculus BC 1-2. Students need a scientific calculator, such as the TI-30XIIS."
-},
-{"id": "2564 and 2566", "name": "PRE-CALCULUS/ TRIGONOMETRY 1-2", "semesters": "2", "credits": "2 RW", "AP": "No", "DC": "No", "IB": "No", "QR": "No", "classification": "Regular", "prereq": "Algebra II 2 or Algebra II 2, Honors",
-"description": "Pre-Calculus blends concepts and skills that must be mastered prior to enrollment in a college-level calculus course or other college-level math courses. A functional approach provides for the integration of trigonometric concepts, relationships of equations and their graphs and applications of real world problems. Students are required to complete a summer review packet. Students need a scientific calculator, such as the TI-30XIIS."
-},
+      {
+        "credits": "2",
+        "name": "ALGEBRA II 1-2 (2522)",
+        "weight": "regular",
+        "description": "Algebra II is a course designed to reinforce skills learned in Algebra I as well as introducing topics necessary for higher-level math courses. The topics given to high priority in Algebra II are solving of all types of equations and inequalities, graphing functions, solving application problems, and an introduction to statistics and probability. Technology is integrated where appropriate. Students taking this course will be required to have a non-CAS scientific calculator. The recommended scientific calculator for the course to have their own. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Regular"
+      },
+      {
+        "credits": "2",
+        "name": "ALGEBRA II 1-2, Honors (2522)",
+        "weight": "partial",
+        "description": "NOTE should contact the department chair to arrange a placement test. Waivers are not acceptable if the student hasn\u2019t taken honors geometry. This course is offered to students recommended as most able in mathematics because of its rigor and pace. The content of the course includes all topics in Algebra II, presented from a more abstract and theoretical standpoint. It is recommended that students not only have the Honors Geometry background, but also a strong showing in Honors/ Advanced Algebra I. Students who take this course must have good number sense and be able to think critically. Topics include linear programming, statistics, matrices and their applications and an in-depth analysis of a wide variety of functions. Students taking this course will be required to have a scientific calculator, such as the TI-30XIIS, the TI-36X Pro cannot be used on assessments. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Honors Prerequisite"
+      },
+      {
+        "credits": "2",
+        "name": "GEOMETRY 1-2 (2532)",
+        "weight": "regular",
+        "description": "The course presents a unified approach to plane and solid geometry. Emphasis is placed on the application of properties, postulates, and theorems of geometric figures in two and three dimensions. Topics include congruence, similarity, parallel lines, polygons, circles, volume and constructions. Students taking this course will be required to have a scientific calculator, such as the TI-30XIIS. There is an approximate fee for this course of $5 for the geometry tool kit. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Regular"
+      },
+      {
+        "credits": "2",
+        "name": "GEOMETRY 1-2, Honors (2532)",
+        "weight": "partial",
+        "description": "This course is designed to introduce the student to the vocabulary and concepts of plane geometry and to apply those concepts using the processes of logical reasoning to attain a better understanding of the world around them. The development of theorems will necessitate a working knowledge of measurement, congruence, similarity, parallelism, perpendicularity, sequences, perimeter, area, volume, trigonometry, and application of algebra concepts of geometry. The scope of Honors Geometry extends beyond the study of geometry with more emphasis on higher order thinking, identifying patterns as well as additional trigonometry and triangle applications. This course also has a strong emphasis on constructions and coordinate geometry. Students taking this course will be required to have a scientific calculator. There is an approximate fee for this course of $5 for the geometry tool kit. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Honors Prerequisite"
+      },
+      {
+        "credits": "2",
+        "name": "PRE-CALCULUS/ TRIGONOMETRY 1-2, INTERMEDIATE (Semester 1: 2564, Semester 2 : 2566 )",
+        "weight": "regular",
+        "description": "Pre-Calculus Intermediate is a two semester course which is recommended for only those students who have maintained a \u201cC\u201d average or above in previous math courses. First semester topics covered in this course include the theory of equations, exponential and logarithmic functions, polynomial and rational functions, and sequences and series. Second semester this course provides for the development of trigonometric functions, their properties and graphs, inverse trig functions, trig equations and identities, the Law of Sines and the Law of Cosines, as well as applications of the trig functions and conics.This course is intended to prepare students for AP Statistics, Finite Mathematics, Quantitative Reasoning or IB Math. This course does not fulfill the prerequisite for Calculus Survey/ M119, AP Calculus AB 1-2 or AP Calculus BC 1-2. Students taking this course will be required to have a scientific calculator, such as the TI-30XIIS. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Regular"
+      },
+      {
+        "credits": "2",
+        "name": "PRE-CALCULUS/ TRIGONOMETRY 1-2 (Semester 1: 2564, Semester 2 : 2566 )",
+        "weight": "regular",
+        "description": "Algebra II 2, Honors Pre-Calculus blends all of the concepts and skills that must be mastered prior to the enrollment in a collegelevel calculus course or other college-level math courses. A functional approach provides for the integration of trigonometric concepts, relationships of equations and their graphs and applications of real world problems. Students taking this course will be required to complete a summer packet. Students are required to complete a summer review packet. Students taking this course will be required to have a scientific calculator, such as the TI-30XIIS. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Regular"
+      },
+      {
+        "credits": "2",
+        "name": "PRE-CALCULUS/ TRIGONOMETRY HONORS (Semester 1: 2564, Semester 2 : 2566 )",
+        "weight": "full",
+        "description": "Note should contact the department chair to arrange a placement test. Waivers are not acceptable if the student has not taken Honors Algebra II 1-2. This course provides formal development of the algebraic, trigonometric, and other pre-calculus skills. These are the concepts necessary for the students who will take a calculus course and other college level mathematics courses. The instructional program will provide ways to use algebraic skills, graphic techniques, and a wide range of applications. Students will further develop an appreciation of the contributions made by mathematicians such as De Moivre and Euler. Topics include for pre-Calculus, algebraic and transcendental functions and graphs, analytic geometry and trigonometry, matrices, parametric equations, mathematical induction, binomial theorem, series, and sequences. Students taking this course will be required to have a scientific calculator. They are also encouraged to have a TInspire CX CAS graphing calculator. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Honors"
+      },
+      {
+        "credits": "2",
+        "name": "STATISTICS 1-2, AP (2570)",
+        "weight": "full",
+        "description": "The course is a study of statistics for the motivated student. Its purpose is to introduce students to methods for collecting, analyzing, and drawing conclusions from data. The curriculum is aligned to the College Board guidelines and will discuss topics such as one and two-variable displays and descriptive statistics, linear and non- linear regression, sample surveys, experimental design, probability, sampling distribution and inference procedures. Students completing this course will be able to take the AP Statistics exam in May, part of which may be paid by the state when the student is currently enrolled in the course. Students taking this course will be required to have a TInspire graphing calculator. It does not matter if it is the CAS or CX version. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Advanced Placement"
+      },
+      {
+        "credits": "2",
+        "name": "CAPSTONE RESEARCH 1-2, Advanced Placement (0551)/ STATISTICS 1-2, Advanced Placement (2570)",
+        "weight": "full",
+        "description": "Capstone Seminar 1-2 and Algebra II-2 This course will be taught collaboratively. The purpose of AP Stats is to help you develop analytical and critical thinking skills as you learn to describe data patterns and departures from patterns, plan and conduct studies, use probability and simulation to explore random phenomena, estimate population parameters, test hypotheses, and make statistical inferences. Given the focus on data analysis and its benefit to you as an AP Research student, who will be exploring an academic topic, problem, or issue that interests you and designing, planning, and conducting a year-long research-based investigation to address it, AP Stats becomes a great course to pair with AP Research. Essentially, AP Research requires you to collect data, communicate your findings, and then analyze that data; all skills that AP Stats can teach you. Additionally, for students considering AP Stats, pairing the course with AP Research allows you to understand and experiment with the best ways in which to analyze your data. Students taking this course will be required to have a TI-nspire graphing calculator. It does not matter if it is the CAS or CX version. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Advanced Placement"
+      },
+      {
+        "credits": "2",
+        "name": "FINITE MATHEMATICS 1-2, ACP 118 (2530)",
+        "weight": "full",
+        "description": "Finite Mathematics is a two semester course designed for students who will pursue careers that are not necessarily in the science field. The problem solving emphasis of the course is designed to apply the mathematical concepts to business, economics as well as the social, life and physical sciences. Topics include probability, linear programming and elementary statistics. As part of the Advance College Project students who enroll in Finite Math may apply to earn three (3) hours of college credit through Indiana University at Bloomington under the title Mathematics (M118). Students would be charged reduced university tuition per credit hour and credits are transferable to several colleges and universities in the country. Each student who chooses to participate in the ACP program should inform his/her counselor at the time of scheduling. Fees will be due when billed by Indiana University. Once a student application is accepted by the ACP office of IU, withdrawal from the M118 IU course is available in October. No calculator is required for this course. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Dual Credit (May be taken for college credit)"
+      },
+      {
+        "credits": "2",
+        "name": "QUANTITATIVE REASONING 1-2 (2550)",
+        "weight": "regular",
+        "description": "Pre-Requisite Algebra I 1-2, Geometry 1,2 and Algebra II 1-2) Quantitative Reasoning is a one-year course focused on the study of numeracy, ratio and proportional reasoning, modeling, probabilistic reasoning and statistics. Students will build knowledge with basic mathematical/analytical concepts and operations. The class will focus heavily on problem solving with real life applications. It is designed to provide students with a coherent, useful and logical experience in which they can make use of their ability to analyze problem situations. This higher level math course aligns with college-level quantitative reasoning courses and is recommended for students who are not planning to pursue a degree in a STEM related field or do not anticipate a need for advanced mathematics in their future studies. Students taking this course will be required to have a scientific calculator. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Regular"
+      },
+      {
+        "credits": "2",
+        "name": "BRIEF SURVEY OF CALCULUS 1-2, ACP M119 (2544)",
+        "weight": "full",
+        "description": "Brief Survey of Calculus is a two semester course which offers the student the opportunity to learn Calculus with emphasis on applications rather than theory. This course is recommended for only those students who have maintained a \u201cB\u201d average in previous mathematics courses. The course content includes functions, limits, derivatives, applications of the derivative and applications of integration. As part of the Advance College Project, students who enroll in Calculus Survey may apply to earn three (3) hours of college credit through Indiana University at Bloomington under the title Mathematics (M119). Students would be charged reduced university tuition per credit hour and credits are transferable to several colleges and universities in the country. Each student who chooses to take this course for college credit should inform his/her counselor at the time of scheduling. Fees will be due when billed by Indiana University Once a student application is accepted by the ACP office of IU, withdrawal from the M119 course is available in October. Students taking this course will be required to have a TInspire CX or TI-84 plus calculator. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Dual Credit (May be taken for college credit)"
+      },
+      {
+        "credits": "2",
+        "name": "CALCULUS AB 1-2, AP/ACP M211 (2562)",
+        "weight": "full",
+        "description": "Honors or Pre-Calculus/Trig 2 AP Calculus AB introduces the topics of differential and integral calculus. The course covers at least as much material as a standard first semester college calculus course. It is recommended for only those students who have maintained a high B average in previous math courses. The curriculum is aligned to College Board guidelines. AP Calculus AB prepares the student to take the Advanced Placement Calculus AB exam in the spring. If students score well they may be awarded one semester of college credit. Students should check with their chosen universities to see about the need to take the AP exam. Students in this course are encouraged to take the AP exam, part of which may be paid by the state when the student is currently enrolled in the course. As part of the Advance College Project, students who enroll in AP Calculus AB may apply to earn four (4) hours of college credit through Indiana University\u2019s mathematics department. (Course number M211) Students would be charged reduced university tuition per credit hour and credits are transferable to several colleges and universities in the country. Each student who chooses to take this course for college credit should inform his/her counselor at the time of scheduling. Fees will be due within the first two weeks of the first semester. Once a student application is accepted by the ACP office of IU, withdrawal from the M211 IU course is available in October. Students are required to complete a summer review packet. Students taking this course will be required to have a TI-nspire CX, TI-nspire CX CAS or TI 84 Plus graphing calculator. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Advanced Placement (May be taken for college credit)"
+      },
+      {
+        "credits": "2",
+        "name": "CALCULUS BC 1-2, AP/ACP M211-212 (2572)",
+        "weight": "full",
+        "description": "Note the department chair to arrange a placement test. Waivers are not acceptable if the student has not taken Honors PreCalculus/Trig 1-2. AP Calculus BC is a college-level course designed for highly motivated math students. The student should be competent in a range of analytical and technical skills. The curriculum is aligned to College Board guidelines and covers the content of the standard first two semesters of college calculus. Students will be prepared for the AP Calculus BC exam in the spring and may earn up to two semesters of college credit. Students in this course are encouraged to take the AP exam, part of which may be paid by the state when the student is currently enrolled in the course. As part of the Advance College Project through Indiana University, students who enroll in AP Calculus BC may apply to earn four (4) hours of college credit each semester. Students would be enrolled in course numbers M211 and M212 and would be charged reduced university tuition per credit hour. Each student who chooses to participate in the ACP program should inform his/her counselor at the time of scheduling. Fees will be due when billed by Indiana University. Once a student application is accepted by the ACP Office of IU, withdrawal from the course is available in October. Students taking this course will be required to have a TInspire CX CAS graphing calculator. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Advanced Placement (May be taken for college credit)"
+      },
+      {
+        "credits": "2",
+        "name": "MULTIVARIABLE CALCULUS/ACP M311 (2544)",
+        "weight": "full",
+        "description": "Note taken AP Calculus BC 1-2 This course is intended for students with a solid background in mathematics who are competent in a range of analytical and technical skills. The majority of these students will be expecting to include mathematics as a major component of their university studies, either as a subject in its own right, or within courses such as physics, engineering, and technology. Students enrolled in this class enjoy the challenges of mathematics and problem solving. This course includes topics from the third semester of college Calculus. Students will review topics from Calculus BC and previous math courses to meet the requirements of the Mathematics HL in the International Baccalaureate program. The pace of the course is such that ample time could be given to each topic to enhance students understanding through use of technology and explorations. Students taking this course will be required to have a TInspire CX CAS graphing calculator. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "Dual Credit"
+      },
+      {
+        "credits": "2",
+        "name": "IB MATHEMATICS: Analysis and Approaches SL 1-2 (2588)",
+        "weight": "full",
+        "description": "This SL course blends all of the concepts and skills that must be mastered prior to the enrollment in a college-level math course. A functional approach provides for the integration of trigonometric concepts, relationships of equations and their graphs and applications of real world problems. Students in this class will complete various projects in addition to traditional evaluations. The emphasis of this course is to help students obtain a well-rounded understanding of all topics. They will demonstrate this understanding through a mandatory exploration. The exploration is a thesis like project where students will apply the math they\u2019ve learned to an area of interest. Students enrolled in this course will be able to choose to take an external exam, either the SL exam at the end of this school year or continue on to IB MATHEMATICS Analysis and Approaches HL 1-2 and take the HL exam at the end of the second year. Calculator Requirement ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "IB"
+      },
+      {
+        "credits": "2",
+        "name": "IB MATHEMATICS: Analysis and Approaches HL 1-2 (2590)",
+        "weight": "full",
+        "description": "This HL course extends students\u2019 knowledge from Analysis and Approaches SL This course is intended to follow Analysis and Approaches SL. It will review topics from the standard level course and delve deeper into the same syllabus content as the Analysis and Approaches SL Mathematics course description. This course will appeal to students with a good background in mathematics who are competent in a range of analytical and technical skills. This course will help students retain the Calculus they have learned in their sophomore and junior years and prepare them for further mathematics in college. Ample time will be given to explore each topic and to enhance students\u2019 understanding through the use of technology and explorations. Calculator Requirement ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "International Baccalaureate"
+      },
+      {
+        "credits": "2",
+        "name": "IB MATHEMATICS: Applications and Interpretations SL 1-2 (2592)",
+        "weight": "full",
+        "description": "This course is intended for students with varied backgrounds and abilities. More specifically, it is designed to build confidence and encourage an appreciation of mathematics in students who do not anticipate a need for mathematics in their future studies. Students taking this course need to be already equipped with fundamental skills and a rudimentary knowledge of basic processes. This course concentrates on mathematics that can be applied to contexts related as far as possible to other subjects being studied, to common real-world occurrences and to topics that relate to home, work, and leisure situations. The course requires students to produce a project, a piece of written work based on personal research, guided and supervised by the teacher. The project provides an opportunity for students to carry out a mathematical investigation in the context of another course being studied, a hobby or an area of interest of their choice using skills learned before and during the course. Students taking this course will be required to have a TI-nspire CX, TInspire CX CAS or TI 84 Plus graphing calculator. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "International Baccalaureate"
+      },
+      {
+        "credits": "2",
+        "name": "IB MATHEMATICS: Applications and Interpretations HL 1-2 (2594)",
+        "weight": "full",
+        "description": "Interpretations SL 1-2 This HL course extends students\u2019 knowledge from Applications and Interpretations SL This course is intended to follow Applications and Interpretations SL. It will review topics from the standard level course and delve deeper into the same syllabus content as the Applications and Interpretations SL Mathematics course description. This course is intended to meet the needs of students whose interest in mathematics is more practical than theoretical but seek more challenging content. ",
+        "id": "0",
+        "semesters": "2",
+        "classification": "International Baccalaureate"
+      },
+      {
+        "credits": ".5",
+        "name": "ALGEBRA 1 Lab (2516)",
+        "weight": "regular",
+        "description": "Algebra 1 Lab is a supplemental course. Students will be placed based on their performance in previous math classes and standardized test scores. The focus of this course is two-fold 1) Students will work on strengthening the prerequisite mathematical and study skills needed to be successful in Algebra I 2) Students will be provided additional assistance with the material they are learning in Algebra I. ",
+        "id": "0",
+        "semesters": ".5",
+        "classification": "Supplemental"
+      }
     ]},
     {"name":"Performing Arts","chair":"Chris Kreke", "courses":"34", "id": "8", "allcourses":[
       {
@@ -2570,6 +2900,7 @@ export class CourseService {
     var filtered;
     filtered = coursesToFilter.filter(u =>
       u.credits == credits);
+      console.log("Credits :"+credits);
       console.log("In filtered courses:"+filtered);
     return filtered;
   }
