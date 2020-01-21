@@ -1,11 +1,11 @@
 <div class="mat-container CHSSearchCourses">
-    <form #searchform="ngForm" (ngSubmit)="onSubmit(formData)" class="form CHSSearchCourse">
+    <form #searchform="ngForm" (ngSubmit)="onSubmit()" class="form CHSSearchCourse">
 
         <h4 class="POCFormField">Find courses using credit criteria</h4>
         <span class="form-field POCFormField">
             <input type="submit" value="Find Courses">
         </span>
-        <button mat-icon-button class="ButtonPosn" color="primary" type="submit "(ngSubmit)="onSubmit(formData)">
+        <button mat-icon-button class="ButtonPosn" color="primary" type="submit " (ngSubmit)="onSubmit()">
                 <mat-icon>search</mat-icon>
                 </button>
         <span class="form-field POCFormField">
@@ -25,6 +25,7 @@
                     </option>
                 </select>
             </span>
+        <!--
         <span class="form-field POCFormField">
             <input type="checkbox" [(ngModel)]="isAP" name="ap" id="ap" [ngModelOptions]="{standalone: true}">AP
         </span>
@@ -40,7 +41,7 @@
                 <input type="checkbox" [(ngModel)]="isQuantativeReasoning" name="Quantatative Reasoning" id="quantativereaoning"
                     [ngModelOptions]="{standalone: true}">Quantatative Reasoning
             </span>
-
+-->
     </form>
 </div>
 

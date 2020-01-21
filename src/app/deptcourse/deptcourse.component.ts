@@ -17,7 +17,7 @@ export class DeptcourseComponent implements OnInit {
     console.log(this.course.name);
   }
 
-  open(course: any)
+  open()
   {
     console.log("opening modal");
 

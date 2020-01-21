@@ -26,7 +26,7 @@ export class POSSearchComponent implements OnInit {
   }
 
 
-onSubmit(formData) {
+onSubmit() {
   console.log("IsWeighted :"+ this.isWeighted);
   console.log("musthavecredits:" + this.mustHaveCredits);
   this.filteredcourses = this.service.getAllCoursesAsObjs();
